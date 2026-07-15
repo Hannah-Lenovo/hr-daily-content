@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T18:30:00+08:00",
+  "overview": {
+    "zh": "今日HR焦点集中在美国合规监管的重大转向与AI对招聘的深度重塑。EEOC撤销了1979年平权行动指南、DOJ质疑差别影响法规合宪性，同时DOL计划重写独立承包商与童工规则，企业需重新审视招聘与用工合规。AI面试正成为白领招聘的第一道关卡，雇主对新员工的能力要求也随之改变。",
+    "en": "Today's HR focus centers on major shifts in US regulatory compliance and AI's deep reshaping of hiring. The EEOC rescinded its 1979 affirmative action guidance and the DOJ challenged the constitutionality of disparate impact rules, while the DOL plans to rewrite independent contractor and child labor rules, prompting employers to revisit hiring and employment compliance. AI interviews are becoming the first gate in white-collar hiring, changing what employers want from new hires."
+  },
+  "quote": {
+    "text": {
+      "zh": "在雇用人才之前，先雇用态度，技能可以后天培养。",
+      "en": "Hire for attitude, train for skill."
+    },
+    "author": "Herb Kelleher"
+  },
+  "newsItems": [
+    {
+      "id": "r0715-n1",
+      "title": {
+        "zh": "DOJ意见书宣称EEOC差别影响法规违宪",
+        "en": "DOJ Opinion Declares EEOC Regulations on Disparate Impact Unconstitutional"
+      },
+      "summary": {
+        "zh": "美国司法部发布意见书，认为EEOC关于差别影响的法规违宪，这可能动摇长期以来基于统计差异认定歧视的执法逻辑，企业招聘与筛选流程的合规评估需要重新考量。",
+        "en": "The US Department of Justice issued an opinion arguing that EEOC disparate impact regulations are unconstitutional, potentially undermining longstanding enforcement logic based on statistical disparities and forcing employers to rethink compliance in hiring and screening."
+      },
+      "url": "https://hrdailyadvisor.hci.org/2026/07/14/doj-opinion-declares-eeoc-regulations-on-disparate-impact-unconstitutional/",
+      "source": "HR Daily Advisor",
+      "publishedAt": "2026-07-14T20:00:00+08:00"
+    },
+    {
+      "id": "r0715-n2",
+      "title": {
+        "zh": "EEOC撤销1979年平权行动指南，招聘合规迎来变化",
+        "en": "EEOC Rescinds 1979 Affirmative Action Guidance, Shifting Hiring Compliance"
+      },
+      "summary": {
+        "zh": "EEOC正式撤销1979年的平权行动指南，标志着联邦层面对多元化与招聘合规立场的重大转向。HR团队需重新评估现有的DEI与招聘政策，确保与最新监管方向一致。",
+        "en": "The EEOC formally rescinded its 1979 affirmative action guidance, marking a significant federal shift on diversity and hiring compliance. HR teams must reassess existing DEI and recruiting policies to align with the latest regulatory direction."
+      },
+      "url": "https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1816840/eeoc-rescinds-prior-affirmative-action-guidance",
+      "source": "Mondaq",
+      "publishedAt": "2026-07-13T15:00:00+08:00"
+    },
+    {
+      "id": "r0715-n3",
+      "title": {
+        "zh": "DOL拟重写独立承包商规则，影响自由职业者用工",
+        "en": "DOL Aims to Rewrite Independent Contractor Rules Again"
+      },
+      "summary": {
+        "zh": "美国劳工部计划再次调整独立承包商的认定规则，撤销此前版本。依赖自由职业者和合同工的企业需关注分类标准变化，避免因误分类带来的劳动法风险与成本。",
+        "en": "The US Department of Labor plans to again revise independent contractor classification rules by rescinding the prior version. Businesses relying on freelancers and contractors should watch classification standards to avoid misclassification risks and costs."
+      },
+      "url": "https://beancount.io/blog/2026/07/11/dol-2026-independent-contractor-rule-rescission-guide",
+      "source": "Beancount.io",
+      "publishedAt": "2026-07-11T10:00:00+08:00"
+    },
+    {
+      "id": "r0715-n4",
+      "title": {
+        "zh": "AI面试成为白领招聘第一步",
+        "en": "AI Job Interviews Are Becoming the First Step in White-Collar Hiring"
+      },
+      "summary": {
+        "zh": "越来越多企业在白领岗位招聘中把AI机器人面试作为第一道筛选环节，候选人先与AI对话再进入人工环节。这提升了筛选效率，但也引发关于公平性与候选人体验的讨论。",
+        "en": "More companies are using AI bot interviews as the first screening step in white-collar hiring, with candidates talking to AI before reaching human rounds. This boosts screening efficiency but raises questions about fairness and candidate experience."
+      },
+      "url": "https://www.businessinsider.com/ai-bot-job-interview-white-collar-work-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-12T09:00:00+08:00"
+    },
+    {
+      "id": "r0715-n5",
+      "title": {
+        "zh": "研究：AI正在改变雇主对新员工的能力要求",
+        "en": "Research: AI Is Changing What Employers Want from New Hires"
+      },
+      "summary": {
+        "zh": "《哈佛商业评论》研究指出，AI普及正在重塑雇主对新员工的期望，判断力、协作与AI协同能力的价值上升，而部分可被自动化的初级技能需求下降。人才发展与培训体系需相应调整。",
+        "en": "Harvard Business Review research finds that AI adoption is reshaping employer expectations for new hires, raising the value of judgment, collaboration and AI-teaming skills while lowering demand for automatable entry-level skills. Talent development and training must adapt accordingly."
+      },
+      "url": "https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires",
+      "source": "Harvard Business Review",
+      "publishedAt": "2026-07-10T22:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0715-kp1",
+      "content": {
+        "zh": "差别影响(Disparate Impact)是指看似中立的招聘或用工政策，在实际执行中对特定受保护群体产生不成比例的不利结果。传统上即使没有歧视意图，只要统计上产生显著不利影响且缺乏业务必要性，就可能构成违法。DOJ对其合宪性的质疑意味着这一执法基础可能松动，HR在设计筛选标准时应同时关注意图与效果两个维度。",
+        "en": "Disparate impact refers to seemingly neutral hiring or employment policies that produce disproportionately adverse outcomes for a protected group in practice. Traditionally, even without discriminatory intent, a policy could be unlawful if it caused significant statistical harm without business necessity. The DOJ challenge suggests this enforcement basis may weaken, so HR should consider both intent and effect when designing screening criteria."
+      },
+      "tags": [
+        {"zh": "合规", "en": "Compliance"},
+        {"zh": "招聘", "en": "Recruiting"}
+      ]
+    },
+    {
+      "id": "r0715-kp2",
+      "content": {
+        "zh": "员工与独立承包商的分类核心在于控制权、经济依赖度与工作整合程度。分类正确与否直接决定是否需要支付加班费、缴纳社保税及提供福利。误分类会带来补税、罚款与集体诉讼风险。当监管规则频繁变动时，企业应以多因素实质测试而非单一标签来评估每一份用工关系。",
+        "en": "The core of classifying employees versus independent contractors lies in degree of control, economic dependence and integration into the business. Correct classification determines overtime pay, payroll taxes and benefits obligations. Misclassification brings back-taxes, penalties and class-action risk. When rules change frequently, employers should assess each relationship using a multi-factor substance test rather than a single label."
+      },
+      "tags": [
+        {"zh": "劳动法", "en": "Labor Law"},
+        {"zh": "用工", "en": "Workforce"}
+      ]
+    },
+    {
+      "id": "r0715-kp3",
+      "content": {
+        "zh": "AI招聘工具在提升效率的同时会引入算法偏见风险。模型往往从历史数据中学习，如果历史招聘存在偏差，AI可能放大这些偏差。负责任的做法是对AI筛选进行定期偏见审计、保留人工复核环节，并向候选人透明披露AI的使用方式，以兼顾效率、公平与合规。",
+        "en": "AI recruiting tools boost efficiency but introduce algorithmic bias risk. Models learn from historical data, and if past hiring was biased, AI may amplify it. Responsible practice includes regular bias audits of AI screening, retaining human review, and transparently disclosing AI use to candidates to balance efficiency, fairness and compliance."
+      },
+      "tags": [
+        {"zh": "HR科技", "en": "HR Tech"},
+        {"zh": "AI", "en": "AI"}
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0715-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "第一步，梳理现有招聘筛选标准与DEI政策清单；第二步，对照EEOC最新撤销的指南标记潜在冲突项；第三步，与法务团队确认调整方案并更新招聘SOP文档。",
+        "en": "Step 1, inventory current hiring screening criteria and DEI policies; Step 2, flag potential conflicts against the newly rescinded EEOC guidance; Step 3, confirm adjustments with legal and update the hiring SOP documentation."
+      }
+    },
+    {
+      "id": "r0715-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "第一步，列出所有独立承包商与合同工名单；第二步，用控制权、经济依赖、工作整合三项因素逐一评估分类是否稳健；第三步，对高风险关系准备重新分类或补充书面合同。",
+        "en": "Step 1, list all independent contractors and freelancers; Step 2, evaluate each classification against control, economic dependence and integration factors; Step 3, prepare reclassification or updated written contracts for high-risk relationships."
+      }
+    },
+    {
+      "id": "r0715-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "第一步，盘点当前使用的AI招聘工具及其决策环节；第二步，安排一次算法偏见审计并记录人工复核比例；第三步，在招聘页面加入AI使用的透明披露说明。",
+        "en": "Step 1, audit which AI recruiting tools are used and at what decision points; Step 2, schedule an algorithmic bias review and record the human-review rate; Step 3, add a transparent AI-use disclosure to the careers page."
+      }
+    }
+  ]
+}

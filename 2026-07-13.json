@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T18:30:00+08:00",
+  "overview": {
+    "zh": "今日HR行业的核心主线是AI在招聘与人社领域的加速渗透与随之而来的合规风险。中国四部门联合印发《关于加快推进“人工智能+人社”应用发展的实施意见》,从国家层面推动AI落地;与此同时,美国Workday AI招聘歧视集体诉讼获准继续审理,为全球企业敲响算法公平的警钟。校招引入AI已成主流,超六成企业使用AI工具,AI岗位本身也成为人才争夺焦点。",
+    "en": "Today's HR headlines center on AI's accelerating adoption in recruiting and public HR services, alongside rising compliance risk. China's four ministries jointly issued an implementation plan to advance 'AI+HR/social security', while in the US the Workday AI hiring-discrimination class action was allowed to proceed, a wake-up call on algorithmic fairness. AI is now mainstream in campus hiring, with over 60% of firms using AI tools, and AI roles themselves have become a hotspot in the talent war."
+  },
+  "quote": {
+    "text": {
+      "zh": "在招聘中,你无法评估你没有定义清楚的东西。",
+      "en": "You can't assess what you haven't clearly defined."
+    },
+    "author": "HR管理谚语 / HR management adage"
+  },
+  "newsItems": [
+    {
+      "id": "r0713-n1",
+      "title": {
+        "zh": "四部门印发《关于加快推进“人工智能+人社”应用发展的实施意见》",
+        "en": "Four Chinese ministries issue implementation plan to advance 'AI + HR/Social Security'"
+      },
+      "summary": {
+        "zh": "人社部、发改委、工信部、国家数据局联合发文,从招聘就业、社保经办、劳动关系、技能培训等6大方面部署AI重大应用场景,标志着AI在公共人力资源服务领域进入国家级顶层推动阶段。",
+        "en": "The Ministry of Human Resources and Social Security, NDRC, MIIT and the National Data Bureau jointly deployed major AI application scenarios across six areas including employment, social insurance, labor relations and skills training, marking national-level top-down promotion of AI in public HR services."
+      },
+      "url": "https://www.nda.gov.cn/sjj/zwgk/zcfb/0708/20260708133949899211227_pc.html",
+      "source": "国家数据局 / National Data Bureau",
+      "publishedAt": "2026-07-08T10:00:00+08:00"
+    },
+    {
+      "id": "r0713-n2",
+      "title": {
+        "zh": "Workday AI招聘歧视集体诉讼获准继续审理",
+        "en": "Workday AI hiring-discrimination class action allowed to proceed"
+      },
+      "summary": {
+        "zh": "加州联邦法院在Mobley v. Workday案中裁定,关于AI简历筛选算法存在年龄/种族歧视的核心指控可继续推进。SHRM称其为“HR的一记警钟”——用AI做招聘决策,企业本身可能要承担法律责任。",
+        "en": "A California federal court ruled in Mobley v. Workday that core allegations of age/race discrimination in AI resume-screening algorithms can proceed. SHRM called it a wake-up call for HR: employers, not just vendors, may bear legal liability for AI-driven hiring decisions."
+      },
+      "url": "https://www.hrdive.com/news/workday-california-AI-bias-lawsuit-feha/823555/",
+      "source": "HR Dive",
+      "publishedAt": "2026-07-10T09:00:00+08:00"
+    },
+    {
+      "id": "r0713-n3",
+      "title": {
+        "zh": "校招引入AI成主流:65.3%企业已在校招中使用AI工具",
+        "en": "AI goes mainstream in campus hiring: 65.3% of firms now use AI tools"
+      },
+      "summary": {
+        "zh": "调研数据显示,超六成企业在校园招聘中引入AI面试、简历筛选、测评等工具,AI岗位本身也成为校招'新引擎',推动招聘流程数字化转型。",
+        "en": "Survey data show over 60% of firms have adopted AI interviews, resume screening and assessment in campus recruiting, while AI roles themselves have become a new engine of campus hiring, driving digital transformation of the recruitment process."
+      },
+      "url": "https://www.yicai.com/news/103264928.html",
+      "source": "第一财经 / Yicai",
+      "publishedAt": "2026-07-09T12:00:00+08:00"
+    },
+    {
+      "id": "r0713-n4",
+      "title": {
+        "zh": "'AI+'人才需求攀升,互联网企业释放超20万岗位",
+        "en": "Demand for 'AI+' talent surges; internet firms release over 200,000 jobs"
+      },
+      "summary": {
+        "zh": "央视网报道,互联网大厂秋招大量释放'AI+'相关岗位,AI岗平均起薪达月薪4.7万元,人才争夺进入白热化阶段。",
+        "en": "CCTV reports that major internet companies are releasing large numbers of 'AI+' roles in autumn recruiting, with AI positions offering average starting salaries of RMB 47,000/month as the talent war intensifies."
+      },
+      "url": "https://5gai.cctv.com/2026/07/06/ARTI7aAHZX3ghmH9f4iRwkyF260706.shtml",
+      "source": "央视网 / CCTV",
+      "publishedAt": "2026-07-06T14:00:00+08:00"
+    },
+    {
+      "id": "r0713-n5",
+      "title": {
+        "zh": "AI面试进入白领招聘'第一关'",
+        "en": "AI interviews become the first step in white-collar hiring"
+      },
+      "summary": {
+        "zh": "Business Insider报道,越来越多白领岗位把AI机器人面试作为招聘首个环节,在提升效率的同时也引发对候选人体验与公平性的讨论。",
+        "en": "Business Insider reports that a growing number of white-collar roles now use AI bot interviews as the first hiring step, boosting efficiency but raising questions about candidate experience and fairness."
+      },
+      "url": "https://www.businessinsider.com/ai-bot-job-interview-white-collar-work-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-11T20:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0713-kp1",
+      "content": {
+        "zh": "结构化面试的核心逻辑是'同岗同题、同标同评':对同一岗位所有候选人使用相同问题、相同评分维度(行为锚定等级)和相同追问逻辑,把主观印象转化为可比较的行为证据。它显著降低面试偏见、提升预测效度。在AI招聘时代,标准化与行为锚定同样是让算法可解释、可审计的前提;Workday案的教训正是'评价标准不透明'带来的法律风险。",
+        "en": "The structured interview rests on 'same role, same questions, same criteria, same scoring': every candidate for a role gets identical questions, behaviorally anchored rating scales and consistent probing, turning subjective impressions into comparable behavioral evidence. It reduces bias and improves predictive validity. In the AI era, standardization and behavioral anchoring are also prerequisites for explainable, auditable algorithms; the Workday case shows the legal risk of opaque evaluation criteria."
+      },
+      "tags": [
+        { "zh": "结构化面试", "en": "Structured Interview" },
+        { "zh": "招聘", "en": "Recruiting" }
+      ]
+    },
+    {
+      "id": "r0713-kp2",
+      "content": {
+        "zh": "胜任力模型的核心逻辑是先定义'什么样的人能在这个岗位上做出高绩效',拆解为知识、技能、能力、特质等可观测维度,再据此设计招聘、测评、培训、晋升的统一标尺。在AI招聘中,它是喂给算法的'评价靶心'——没有清晰的胜任力标准,AI只会放大历史数据中的隐性偏见,把过去的用人偏差固化下来。",
+        "en": "A competency model starts by defining what kind of person delivers high performance in a role, then breaks it into observable dimensions—knowledge, skills, abilities, traits—used as a unified yardstick across hiring, assessment, training and promotion. In AI hiring it is the evaluation 'target' fed to the algorithm: without clear competency standards, AI merely amplifies hidden bias in historical data and hard-codes past hiring flaws."
+      },
+      "tags": [
+        { "zh": "胜任力模型", "en": "Competency Model" },
+        { "zh": "人才管理", "en": "Talent Management" }
+      ]
+    },
+    {
+      "id": "r0713-kp3",
+      "content": {
+        "zh": "算法公平与'人在环中'治理的核心逻辑是:AI辅助决策不等于AI替代决策。任何影响录用或淘汰的自动化环节,都应保留人工复核节点、留存决策依据、并定期做偏差审计(不同性别/年龄组的通过率对比)。这是从Workday诉讼中提炼出的合规底线——企业需要能解释'为什么淘汰这个人'。",
+        "en": "Algorithmic fairness and human-in-the-loop governance rest on one idea: AI-assisted decisions must not become AI-only decisions. Any automated step that affects hiring or rejection should retain a human review checkpoint, preserve the decision rationale, and undergo regular adverse-impact audits (comparing pass rates across gender/age groups). This is the compliance floor drawn from the Workday litigation—employers must be able to explain why a candidate was rejected."
+      },
+      "tags": [
+        { "zh": "算法公平", "en": "Algorithmic Fairness" },
+        { "zh": "合规", "en": "Compliance" }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0713-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "为一个在招岗位设计结构化面试题库:①列出3-4项关键胜任力;②每项写1道STAR行为面试题;③为每题写1-5分行为锚定评分表(5分=主动推动化解冲突,1分=被动配合);④要求所有面试官用同一张表独立打分后再讨论。今天先完成1个岗位。",
+        "en": "Build a structured interview kit for one open role: (1) list 3-4 key competencies; (2) write one STAR behavioral question per competency; (3) create a 1-5 behaviorally anchored rating scale per question (5 = proactively resolved conflict, 1 = passive compliance); (4) have all interviewers score independently on the same sheet before discussing. Complete one role today."
+      }
+    },
+    {
+      "id": "r0713-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "对一个岗位做'标杆访谈'提炼真实胜任力:①找2位公认高绩效员工;②各花20分钟问'过去3个月做得最漂亮的一件事,具体怎么做的';③提炼反复出现的行为(如提前预判风险、数据驱动说服);④把它们写进JD和评分表,替换空泛的'沟通能力强'。",
+        "en": "Run 'benchmark interviews' to extract real competencies for one role: (1) pick two recognized high performers; (2) spend 20 minutes each asking about their best accomplishment in the past three months and exactly how they did it; (3) distill recurring behaviors (e.g., anticipating risks, data-driven persuasion); (4) write these into the JD and rating sheet, replacing vague phrases like 'strong communication skills'."
+      }
+    },
+    {
+      "id": "r0713-ai3",
+      "priority": "high",
+      "content": {
+        "zh": "给正在使用的AI招聘工具做一次快速合规体检:①列出哪些环节由AI自动决策(筛简历/自动淘汰/AI面试评分);②检查每个环节是否有人工复核入口及'为什么淘汰'的记录;③抽取上月被AI淘汰的30份简历,按性别/年龄段对比通过率;④若发现差异或缺人工节点,今天就把'AI结果=建议而非终判'写进流程并指定复核责任人。",
+        "en": "Run a quick compliance check on your AI recruiting tools: (1) list which steps are AI-automated (resume screening / auto-rejection / AI interview scoring); (2) verify each step has a human review path and a logged 'why rejected' rationale; (3) sample 30 resumes AI rejected last month and compare pass rates by gender/age group; (4) if you find disparities or missing human checkpoints, codify 'AI output = recommendation, not final verdict' into the process today and assign a review owner."
+      }
+    }
+  ]
+}

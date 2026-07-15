@@ -1,0 +1,147 @@
+{
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-14T18:20:00+08:00",
+  "overview": {
+    "zh": "AI正在重塑招聘全链条：国内互联网大厂秋招释放超20万岗位，「AI+」人才需求与薪酬双双攀升，AI面试与智能招聘Agent加速落地。与此同时，AI招聘的合规风险上升，Workday相关诉讼提醒企业须防范算法歧视。",
+    "en": "AI is reshaping the entire hiring chain: Chinese tech giants opened over 200,000 fall-recruitment roles with surging demand and pay for AI talent, while AI interviews and recruiting agents scale up. At the same time, compliance risk is rising, with the Workday lawsuit warning employers to guard against algorithmic discrimination."
+  },
+  "quote": {
+    "text": {
+      "zh": "先把合适的人请上车，再决定车要开往哪里。",
+      "en": "Get the right people on the bus, then figure out where to drive it."
+    },
+    "author": "Jim Collins"
+  },
+  "newsItems": [
+    {
+      "id": "r0714-n1",
+      "title": {
+        "zh": "互联网企业释放超20万岗位，「AI+」人才需求攀升",
+        "en": "Internet firms open 200,000+ jobs as demand for 'AI+' talent climbs"
+      },
+      "summary": {
+        "zh": "央视网报道，今年互联网企业秋招累计释放超过20万个岗位，与AI相关的算法、大模型、数据类职位占比显著提升，企业对既懂业务又懂AI的复合型人才争夺激烈。",
+        "en": "CCTV reports that Chinese internet companies have released over 200,000 fall-recruitment positions, with AI-related algorithm, large-model and data roles rising sharply as firms compete for hybrid talent fluent in both business and AI."
+      },
+      "url": "https://5gai.cctv.com/2026/07/06/ARTI7aAHZX3ghmH9f4iRwkyF260706.shtml",
+      "source": "央视网 CCTV",
+      "publishedAt": "2026-07-06T10:00:00+08:00"
+    },
+    {
+      "id": "r0714-n2",
+      "title": {
+        "zh": "前程无忧：近八成AI相关岗位为通用AI与算法类",
+        "en": "51job: Nearly 80% of AI-related roles are general-AI and algorithm positions"
+      },
+      "summary": {
+        "zh": "前程无忧最新数据显示，市场上近八成AI相关岗位集中在通用AI与算法方向，反映企业AI人才布局仍以底层技术能力为核心，招聘方对模型工程与算法经验要求持续提高。",
+        "en": "New 51job data shows nearly 80% of AI-related openings concentrate in general-AI and algorithm tracks, indicating that corporate AI hiring still centers on core technical capability, with rising expectations for model engineering and algorithm experience."
+      },
+      "url": "http://news.10jqka.com.cn/20260714/c678159106.shtml",
+      "source": "同花顺 10jqka",
+      "publishedAt": "2026-07-14T09:00:00+08:00"
+    },
+    {
+      "id": "r0714-n3",
+      "title": {
+        "zh": "Workday AI招聘诉讼：2026年HR必须了解的合规要点",
+        "en": "Workday AI hiring lawsuit: what HR must know in 2026"
+      },
+      "summary": {
+        "zh": "针对Workday招聘筛选算法的集体诉讼进入关键阶段，指控其AI工具在年龄等维度存在歧视性影响。案件提醒企业：使用AI筛选简历需做偏见审计、保留可解释性并保存决策记录以规避法律风险。",
+        "en": "A class action over Workday's screening algorithms alleges its AI tools produced discriminatory impact on dimensions such as age. The case reminds employers using AI resume screening to run bias audits, preserve explainability and keep decision records to mitigate legal exposure."
+      },
+      "url": "https://neuralwired.com/2026/07/10/workday-ai-hiring-lawsuit-2026/",
+      "source": "NeuralWired",
+      "publishedAt": "2026-07-10T12:00:00+08:00"
+    },
+    {
+      "id": "r0714-n4",
+      "title": {
+        "zh": "哈佛商业评论：AI正在改变雇主对新人的能力要求",
+        "en": "HBR: AI is changing what employers want from new hires"
+      },
+      "summary": {
+        "zh": "《哈佛商业评论》研究指出，随着AI承担更多基础性任务，雇主对入门岗位的要求正从重复执行转向判断力、沟通与跨领域协作，倒逼企业重新设计岗位说明与培训路径。",
+        "en": "Harvard Business Review research finds that as AI handles more routine tasks, employer expectations for entry-level hires shift from repetitive execution toward judgment, communication and cross-domain collaboration, pushing firms to redesign job specs and training paths."
+      },
+      "url": "https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires",
+      "source": "Harvard Business Review",
+      "publishedAt": "2026-07-08T20:00:00+08:00"
+    },
+    {
+      "id": "r0714-n5",
+      "title": {
+        "zh": "Josh Bersin：人才招聘正走出AI试验期迈向规模化",
+        "en": "Josh Bersin: talent acquisition moves beyond AI experimentation"
+      },
+      "summary": {
+        "zh": "Josh Bersin公司研究显示，领先企业的招聘团队已从零散的AI试点转向系统化部署，把AI嵌入寻源、初筛与候选人体验全流程，并以数据指标衡量效率与质量提升。",
+        "en": "Josh Bersin Company research shows leading talent-acquisition teams are moving from scattered AI pilots to systematic deployment, embedding AI across sourcing, screening and candidate experience while measuring efficiency and quality gains with data."
+      },
+      "url": "https://www.prnewswire.com/news-releases/josh-bersin-company-research-shows-talent-acquisition-moving-beyond-ai-experimentation-302819410.html",
+      "source": "PR Newswire",
+      "publishedAt": "2026-07-09T21:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0714-kp1",
+      "content": {
+        "zh": "AI招聘的合规核心在于「差别影响」原则：即便算法本身不含受保护属性，只要筛选结果对特定群体（如年龄、性别）造成系统性不利，就可能构成歧视。因此企业必须做上线前偏见审计、保留模型可解释性、记录决策依据，并设置人工复核环节。这样既能享受AI效率，又能在诉讼与监管中自证合规。",
+        "en": "The compliance core of AI hiring is the 'disparate impact' principle: even when an algorithm excludes protected attributes, systematic disadvantage to a group (e.g., age, gender) can still constitute discrimination. Employers must run pre-deployment bias audits, preserve model explainability, log decision rationale and add human review, capturing AI efficiency while proving compliance to regulators and courts."
+      },
+      "tags": [
+        {"zh": "合规", "en": "Compliance"},
+        {"zh": "AI招聘", "en": "AI Hiring"}
+      ]
+    },
+    {
+      "id": "r0714-kp2",
+      "content": {
+        "zh": "AI重塑岗位画像的底层逻辑是「任务再分配」：AI接管可标准化、可重复的基础任务后，人类价值上移到判断、协作与创造。HR应据此重写岗位说明书，把能力要求从「执行经验」转向「判断力与学习力」，并重设培训与晋升通道，避免用旧标准招募面向未来的人才。",
+        "en": "The logic behind AI reshaping role profiles is 'task reallocation': once AI absorbs standardizable, repetitive tasks, human value shifts up to judgment, collaboration and creativity. HR should rewrite job descriptions to move requirements from 'execution experience' to 'judgment and learning ability', and redesign training and promotion tracks so future-facing talent isn't hired against outdated criteria."
+      },
+      "tags": [
+        {"zh": "岗位设计", "en": "Job Design"},
+        {"zh": "人才发展", "en": "Talent Development"}
+      ]
+    },
+    {
+      "id": "r0714-kp3",
+      "content": {
+        "zh": "从AI试点到规模化的关键是「流程内嵌+指标闭环」：不是买工具堆功能，而是把AI嵌入寻源、初筛、面试与候选人体验的每个环节，并用到岗周期、单岗成本、面试转化率、候选人满意度等指标形成反馈闭环。没有指标闭环的AI招聘只是昂贵试验，难以证明ROI。",
+        "en": "The key to scaling from AI pilot to production is 'process embedding plus a metrics loop': not stacking tool features, but embedding AI into every stage of sourcing, screening, interviewing and candidate experience, then closing the loop with metrics like time-to-fill, cost-per-hire, interview conversion and candidate satisfaction. Without a metrics loop, AI recruiting is just an expensive experiment that can't prove ROI."
+      },
+      "tags": [
+        {"zh": "招聘运营", "en": "Recruiting Ops"}
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0714-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "对现有AI筛选/面试工具做一次合规自查：1) 列出所有使用AI做人才决策的环节；2) 检查供应商是否提供偏见审计报告与可解释性说明；3) 补齐决策日志与人工复核机制；4) 形成一页纸风险清单交法务与业务负责人确认。",
+        "en": "Run a compliance self-check on existing AI screening/interview tools: 1) list every stage where AI makes talent decisions; 2) confirm vendors provide bias-audit reports and explainability; 3) add decision logging and human review; 4) produce a one-page risk list for legal and business owners to sign off."
+      }
+    },
+    {
+      "id": "r0714-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "针对2-3个核心招聘岗位重写岗位说明书：把能力项从「执行经验」改为「判断力、跨域协作、AI协作能力」，并同步更新面试评估表的评分维度，让筛选标准与AI时代的用人需求对齐。",
+        "en": "Rewrite job descriptions for 2-3 core roles: shift requirements from 'execution experience' to 'judgment, cross-domain collaboration and AI-collaboration skills', and update interview scorecards accordingly so screening criteria align with AI-era needs."
+      }
+    },
+    {
+      "id": "r0714-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "为AI招聘建立最小指标看板：选定到岗周期、单岗成本、初筛通过率、候选人满意度四个指标，先手工统计一个月基线数据，为后续规模化部署与ROI评估打底。",
+        "en": "Build a minimal metrics dashboard for AI recruiting: pick time-to-fill, cost-per-hire, screening pass rate and candidate satisfaction, manually track a one-month baseline first to ground later scaling decisions and ROI evaluation."
+      }
+    }
+  ]
+}
