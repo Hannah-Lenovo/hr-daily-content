@@ -1,0 +1,147 @@
+{
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T09:30:00+08:00",
+  "overview": {
+    "zh": "今日HR行业焦点集中在多智能体AI进入人才招聘全流程，Eightfold、Paradox等厂商加速布局；同时美国多地在7月1日生效新一批工作场所法规与最低工资上调。企业正把AI能力与合规更新同步纳入2026下半年人力规划。",
+    "en": "Today's HR focus centers on multi-agent AI entering the full talent-acquisition workflow, with Eightfold, Paradox and others accelerating deployment. Meanwhile a fresh batch of U.S. workplace laws and minimum-wage increases took effect July 1, pushing employers to align AI capability with compliance in their H2 2026 people plans."
+  },
+  "quote": {
+    "text": {
+      "zh": "先招对人，再谈战略；人对了，事就成了一半。",
+      "en": "Hire the right people first; strategy follows, because the who decides the how."
+    },
+    "author": "Jim Collins"
+  },
+  "newsItems": [
+    {
+      "id": "r0716-n1",
+      "title": {
+        "zh": "多智能体AI进入人才招聘全流程",
+        "en": "Multi-Agent AI Arrives for Talent Acquisition"
+      },
+      "summary": {
+        "zh": "Josh Bersin 指出 Eightfold、Paradox、Maki、Radancy 等厂商推出多智能体AI系统，能自动完成筛选、沟通与面试协调，招聘从单点工具走向端到端智能编排。",
+        "en": "Josh Bersin reports that Eightfold, Paradox, Maki and Radancy are launching multi-agent AI systems that automate screening, candidate communication and interview coordination, shifting recruiting from point tools to end-to-end orchestration."
+      },
+      "url": "https://joshbersin.com/2026/07/multi-agent-ai-for-talent-acquisition-arrives-eightfold-paradox-maki-radancy-and-more/",
+      "source": "Josh Bersin",
+      "publishedAt": "2026-07-16T08:00:00+08:00"
+    },
+    {
+      "id": "r0716-n2",
+      "title": {
+        "zh": "研究：AI正在改变雇主对新员工的能力要求",
+        "en": "Research: AI Is Changing What Employers Want from New Hires"
+      },
+      "summary": {
+        "zh": "《哈佛商业评论》最新研究显示，AI普及使雇主更看重判断力、协作与AI协同能力，而非单纯的执行型技能，招聘标准正在重构。",
+        "en": "New Harvard Business Review research finds that as AI spreads, employers increasingly prioritize judgment, collaboration and the ability to work alongside AI over pure execution skills, reshaping hiring criteria."
+      },
+      "url": "https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires",
+      "source": "Harvard Business Review",
+      "publishedAt": "2026-07-16T07:30:00+08:00"
+    },
+    {
+      "id": "r0716-n3",
+      "title": {
+        "zh": "7月1日生效：多地新工作场所法规与最低工资上调",
+        "en": "Workplace Laws and Minimum Wage Increases Effective July 1, 2026"
+      },
+      "summary": {
+        "zh": "Fisher Phillips 与 Workstream 汇总，美国多州与城市在7月1日上调最低工资并实施新工作场所规则，涉及带薪休假、透明薪酬等，雇主需及时更新政策与手册。",
+        "en": "Summaries from Fisher Phillips and Workstream show numerous U.S. states and cities raised minimum wages and enacted new workplace rules on July 1, covering paid leave and pay transparency, requiring employers to update policies and handbooks."
+      },
+      "url": "https://www.fisherphillips.com/en/insights/insights/employer-cheat-sheet-for-workplace-laws-taking-effect-july-1-2026",
+      "source": "Fisher Phillips",
+      "publishedAt": "2026-07-16T09:00:00+08:00"
+    },
+    {
+      "id": "r0716-n4",
+      "title": {
+        "zh": "SHRM：白宫释放2026下半年工作场所规则调整信号",
+        "en": "White House Signals Workplace Rule Changes for Rest of 2026"
+      },
+      "summary": {
+        "zh": "SHRM 报道，联邦层面预计在2026下半年推动一系列工作场所规则调整，涉及监管重点转向，HR团队需提前评估合规影响与政策弹性。",
+        "en": "SHRM reports the federal government is expected to advance a series of workplace rule changes in the second half of 2026, signaling shifting regulatory priorities that HR teams should assess for compliance impact and policy flexibility."
+      },
+      "url": "https://www.shrm.org/topics-tools/news/trump-administration-workplace-rule-changes-2026",
+      "source": "SHRM",
+      "publishedAt": "2026-07-16T08:45:00+08:00"
+    },
+    {
+      "id": "r0716-n5",
+      "title": {
+        "zh": "State of AI Recruiting 2026：招聘团队如何真正落地AI",
+        "en": "State of AI Recruiting 2026: How TA Teams Are Actually Deploying AI"
+      },
+      "summary": {
+        "zh": "Recruiting Tech Reviews 研究显示，领先招聘团队在AI应用上出现五大运营转变，从提效工具转向重塑流程与人机分工，落地方式趋于成熟。",
+        "en": "Research from Recruiting Tech Reviews finds leading TA teams are seeing five distinct operational shifts in AI adoption, moving from efficiency tools to redesigned processes and clearer human-AI division of labor."
+      },
+      "url": "https://recruitingtechreviews.com/research/state-of-ai-recruiting-2026",
+      "source": "Recruiting Tech Reviews",
+      "publishedAt": "2026-07-16T07:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0716-kp1",
+      "content": {
+        "zh": "多智能体AI招聘的核心逻辑是把招聘拆成可编排的子任务，由多个专职智能体分别处理筛选、外联、排期与评估，再由编排层协调。相比单一聊天机器人，它能并行处理并保留上下文，减少人工交接损耗。但需设置人工复核关卡，防止偏见放大与合规风险。",
+        "en": "Multi-agent AI recruiting decomposes hiring into orchestrated subtasks, with specialized agents handling screening, outreach, scheduling and evaluation, coordinated by an orchestration layer. Unlike a single chatbot, it works in parallel and retains context, cutting handoff loss. Human-review checkpoints remain essential to prevent amplified bias and compliance risk."
+      },
+      "tags": [
+        { "zh": "招聘科技", "en": "HR Tech" },
+        { "zh": "人工智能", "en": "AI" }
+      ]
+    },
+    {
+      "id": "r0716-kp2",
+      "content": {
+        "zh": "薪酬合规更新的关键在于建立年度与半年度的法规追踪机制。最低工资、薪酬透明与带薪休假等规则常在1月和7月批量生效，HR应按州/市维护生效日历，并联动薪资系统与员工手册同步更新，避免逐条被动补救。",
+        "en": "The key to compensation compliance is a recurring regulatory-tracking cadence. Minimum-wage, pay-transparency and paid-leave rules often take effect in batches each January and July, so HR should maintain a state/city effective-date calendar and sync payroll systems and handbooks together rather than patching rules one by one."
+      },
+      "tags": [
+        { "zh": "劳动法规", "en": "Labor Law" },
+        { "zh": "薪酬福利", "en": "Compensation" }
+      ]
+    },
+    {
+      "id": "r0716-kp3",
+      "content": {
+        "zh": "AI时代的人才标准正从技能导向转向能力导向。当执行类任务被AI承担，判断力、跨职能协作与人机协同成为区分度更高的胜任要素。招聘评估应增加情境化判断题与协作演练，而非仅考察工具熟练度。",
+        "en": "In the AI era, talent criteria shift from skill-based to capability-based. As execution tasks move to AI, judgment, cross-functional collaboration and human-AI teaming become more differentiating competencies. Hiring assessments should add situational-judgment and collaboration exercises rather than testing only tool proficiency."
+      },
+      "tags": [
+        { "zh": "人才发展", "en": "Talent Development" }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0716-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "第一步梳理公司所在州/市7月1日生效的最低工资与工作场所新规；第二步核对当前薪资表与员工手册是否达标；第三步本周内完成差异项更新并通知相关经理。",
+        "en": "Step 1: list the July 1 minimum-wage and workplace rules effective in your states/cities. Step 2: check current payroll tables and handbook for compliance gaps. Step 3: close the gaps this week and notify affected managers."
+      }
+    },
+    {
+      "id": "r0716-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "第一步选取一个招聘环节（如初筛或排期）试点AI智能体；第二步设定人工复核关卡与偏见检查指标；第三步运行两周后对比处理时长与候选人体验数据。",
+        "en": "Step 1: pick one recruiting stage (screening or scheduling) to pilot an AI agent. Step 2: set human-review checkpoints and bias-check metrics. Step 3: after two weeks, compare cycle time and candidate-experience data."
+      }
+    },
+    {
+      "id": "r0716-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "第一步在下一版招聘评估中加入情境判断题与协作演练；第二步与用人经理对齐AI协同能力的评分标准；第三步在两个岗位上小范围试用并收集反馈。",
+        "en": "Step 1: add situational-judgment and collaboration exercises to the next hiring assessment. Step 2: align scoring for human-AI teaming with hiring managers. Step 3: trial it on two roles and gather feedback."
+      }
+    }
+  ]
+}
