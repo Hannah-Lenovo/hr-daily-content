@@ -92,8 +92,14 @@
         "en": "Multi-agent AI recruiting decomposes hiring into orchestrated subtasks, with specialized agents handling screening, outreach, scheduling and evaluation, coordinated by an orchestration layer. Unlike a single chatbot, it works in parallel and retains context, cutting handoff loss. Human-review checkpoints remain essential to prevent amplified bias and compliance risk."
       },
       "tags": [
-        { "zh": "招聘科技", "en": "HR Tech" },
-        { "zh": "人工智能", "en": "AI" }
+        {
+          "zh": "招聘科技",
+          "en": "HR Tech"
+        },
+        {
+          "zh": "人工智能",
+          "en": "AI"
+        }
       ]
     },
     {
@@ -103,8 +109,14 @@
         "en": "The key to compensation compliance is a recurring regulatory-tracking cadence. Minimum-wage, pay-transparency and paid-leave rules often take effect in batches each January and July, so HR should maintain a state/city effective-date calendar and sync payroll systems and handbooks together rather than patching rules one by one."
       },
       "tags": [
-        { "zh": "劳动法规", "en": "Labor Law" },
-        { "zh": "薪酬福利", "en": "Compensation" }
+        {
+          "zh": "劳动法规",
+          "en": "Labor Law"
+        },
+        {
+          "zh": "薪酬福利",
+          "en": "Compensation"
+        }
       ]
     },
     {
@@ -114,7 +126,10 @@
         "en": "In the AI era, talent criteria shift from skill-based to capability-based. As execution tasks move to AI, judgment, cross-functional collaboration and human-AI teaming become more differentiating competencies. Hiring assessments should add situational-judgment and collaboration exercises rather than testing only tool proficiency."
       },
       "tags": [
-        { "zh": "人才发展", "en": "Talent Development" }
+        {
+          "zh": "人才发展",
+          "en": "Talent Development"
+        }
       ]
     }
   ],

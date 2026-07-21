@@ -92,8 +92,14 @@
         "en": "Disparate impact refers to seemingly neutral hiring or employment policies that produce disproportionately adverse outcomes for a protected group in practice. Traditionally, even without discriminatory intent, a policy could be unlawful if it caused significant statistical harm without business necessity. The DOJ challenge suggests this enforcement basis may weaken, so HR should consider both intent and effect when designing screening criteria."
       },
       "tags": [
-        {"zh": "合规", "en": "Compliance"},
-        {"zh": "招聘", "en": "Recruiting"}
+        {
+          "zh": "合规",
+          "en": "Compliance"
+        },
+        {
+          "zh": "招聘",
+          "en": "Recruiting"
+        }
       ]
     },
     {
@@ -103,8 +109,14 @@
         "en": "The core of classifying employees versus independent contractors lies in degree of control, economic dependence and integration into the business. Correct classification determines overtime pay, payroll taxes and benefits obligations. Misclassification brings back-taxes, penalties and class-action risk. When rules change frequently, employers should assess each relationship using a multi-factor substance test rather than a single label."
       },
       "tags": [
-        {"zh": "劳动法", "en": "Labor Law"},
-        {"zh": "用工", "en": "Workforce"}
+        {
+          "zh": "劳动法",
+          "en": "Labor Law"
+        },
+        {
+          "zh": "用工",
+          "en": "Workforce"
+        }
       ]
     },
     {
@@ -114,8 +126,14 @@
         "en": "AI recruiting tools boost efficiency but introduce algorithmic bias risk. Models learn from historical data, and if past hiring was biased, AI may amplify it. Responsible practice includes regular bias audits of AI screening, retaining human review, and transparently disclosing AI use to candidates to balance efficiency, fairness and compliance."
       },
       "tags": [
-        {"zh": "HR科技", "en": "HR Tech"},
-        {"zh": "AI", "en": "AI"}
+        {
+          "zh": "HR科技",
+          "en": "HR Tech"
+        },
+        {
+          "zh": "AI",
+          "en": "AI"
+        }
       ]
     }
   ],

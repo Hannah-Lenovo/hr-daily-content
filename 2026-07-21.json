@@ -92,8 +92,14 @@
         "en": "Precision hiring is the core paradigm shift in talent acquisition for 2026. The logic is to use AI to decompose job competency models finely, replacing broad-net screening with targeted precision outreach. AI handles data processing and initial matching, while human HR focuses on values alignment and cultural fit. This requires a structured job competency database, candidate behavioral data models, and algorithmic fairness audits to mitigate legal risk."
       },
       "tags": [
-        { "zh": "精准招聘", "en": "Precision Hiring" },
-        { "zh": "AI招聘", "en": "AI Recruiting" }
+        {
+          "zh": "精准招聘",
+          "en": "Precision Hiring"
+        },
+        {
+          "zh": "AI招聘",
+          "en": "AI Recruiting"
+        }
       ]
     },
     {
@@ -103,9 +109,18 @@
         "en": "Legal compliance risks of AI hiring tools are rising rapidly. The core risk is that AI screening models may cause systematic discrimination against specific groups due to training data bias, triggering employment equality liability. The Workday lawsuit reveals that even companies using — not building — AI tools may bear joint liability. HR teams should regularly conduct algorithmic impact assessments, maintain explainability records of screening decisions, and establish human review checkpoints in hiring workflows."
       },
       "tags": [
-        { "zh": "AI合规", "en": "AI Compliance" },
-        { "zh": "算法公平性", "en": "Algorithmic Fairness" },
-        { "zh": "就业法律", "en": "Employment Law" }
+        {
+          "zh": "AI合规",
+          "en": "AI Compliance"
+        },
+        {
+          "zh": "算法公平性",
+          "en": "Algorithmic Fairness"
+        },
+        {
+          "zh": "就业法律",
+          "en": "Employment Law"
+        }
       ]
     },
     {
@@ -115,9 +130,18 @@
         "en": "Managing 'digital employees' is an emerging core topic for HR functions in 2026. Digital workers (AI agents, RPA bots, etc.) handle large volumes of repetitive tasks. HR departments need to establish role and responsibility boundaries, human-machine collaboration SOPs, digital worker performance monitoring, and accountability and remediation processes for errors. The HR role is expanding from 'managing people' to 'managing people and machines,' requiring basic AI literacy and systems thinking."
       },
       "tags": [
-        { "zh": "数字员工", "en": "Digital Employee" },
-        { "zh": "人机协作", "en": "Human-Machine Collaboration" },
-        { "zh": "HR职能转型", "en": "HR Function Transformation" }
+        {
+          "zh": "数字员工",
+          "en": "Digital Employee"
+        },
+        {
+          "zh": "人机协作",
+          "en": "Human-Machine Collaboration"
+        },
+        {
+          "zh": "HR职能转型",
+          "en": "HR Function Transformation"
+        }
       ]
     }
   ],

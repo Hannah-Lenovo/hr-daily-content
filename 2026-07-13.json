@@ -92,8 +92,14 @@
         "en": "The structured interview rests on 'same role, same questions, same criteria, same scoring': every candidate for a role gets identical questions, behaviorally anchored rating scales and consistent probing, turning subjective impressions into comparable behavioral evidence. It reduces bias and improves predictive validity. In the AI era, standardization and behavioral anchoring are also prerequisites for explainable, auditable algorithms; the Workday case shows the legal risk of opaque evaluation criteria."
       },
       "tags": [
-        { "zh": "结构化面试", "en": "Structured Interview" },
-        { "zh": "招聘", "en": "Recruiting" }
+        {
+          "zh": "结构化面试",
+          "en": "Structured Interview"
+        },
+        {
+          "zh": "招聘",
+          "en": "Recruiting"
+        }
       ]
     },
     {
@@ -103,8 +109,14 @@
         "en": "A competency model starts by defining what kind of person delivers high performance in a role, then breaks it into observable dimensions—knowledge, skills, abilities, traits—used as a unified yardstick across hiring, assessment, training and promotion. In AI hiring it is the evaluation 'target' fed to the algorithm: without clear competency standards, AI merely amplifies hidden bias in historical data and hard-codes past hiring flaws."
       },
       "tags": [
-        { "zh": "胜任力模型", "en": "Competency Model" },
-        { "zh": "人才管理", "en": "Talent Management" }
+        {
+          "zh": "胜任力模型",
+          "en": "Competency Model"
+        },
+        {
+          "zh": "人才管理",
+          "en": "Talent Management"
+        }
       ]
     },
     {
@@ -114,8 +126,14 @@
         "en": "Algorithmic fairness and human-in-the-loop governance rest on one idea: AI-assisted decisions must not become AI-only decisions. Any automated step that affects hiring or rejection should retain a human review checkpoint, preserve the decision rationale, and undergo regular adverse-impact audits (comparing pass rates across gender/age groups). This is the compliance floor drawn from the Workday litigation—employers must be able to explain why a candidate was rejected."
       },
       "tags": [
-        { "zh": "算法公平", "en": "Algorithmic Fairness" },
-        { "zh": "合规", "en": "Compliance" }
+        {
+          "zh": "算法公平",
+          "en": "Algorithmic Fairness"
+        },
+        {
+          "zh": "合规",
+          "en": "Compliance"
+        }
       ]
     }
   ],

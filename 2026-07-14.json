@@ -92,8 +92,14 @@
         "en": "The compliance core of AI hiring is the 'disparate impact' principle: even when an algorithm excludes protected attributes, systematic disadvantage to a group (e.g., age, gender) can still constitute discrimination. Employers must run pre-deployment bias audits, preserve model explainability, log decision rationale and add human review, capturing AI efficiency while proving compliance to regulators and courts."
       },
       "tags": [
-        {"zh": "合规", "en": "Compliance"},
-        {"zh": "AI招聘", "en": "AI Hiring"}
+        {
+          "zh": "合规",
+          "en": "Compliance"
+        },
+        {
+          "zh": "AI招聘",
+          "en": "AI Hiring"
+        }
       ]
     },
     {
@@ -103,8 +109,14 @@
         "en": "The logic behind AI reshaping role profiles is 'task reallocation': once AI absorbs standardizable, repetitive tasks, human value shifts up to judgment, collaboration and creativity. HR should rewrite job descriptions to move requirements from 'execution experience' to 'judgment and learning ability', and redesign training and promotion tracks so future-facing talent isn't hired against outdated criteria."
       },
       "tags": [
-        {"zh": "岗位设计", "en": "Job Design"},
-        {"zh": "人才发展", "en": "Talent Development"}
+        {
+          "zh": "岗位设计",
+          "en": "Job Design"
+        },
+        {
+          "zh": "人才发展",
+          "en": "Talent Development"
+        }
       ]
     },
     {
@@ -114,7 +126,10 @@
         "en": "The key to scaling from AI pilot to production is 'process embedding plus a metrics loop': not stacking tool features, but embedding AI into every stage of sourcing, screening, interviewing and candidate experience, then closing the loop with metrics like time-to-fill, cost-per-hire, interview conversion and candidate satisfaction. Without a metrics loop, AI recruiting is just an expensive experiment that can't prove ROI."
       },
       "tags": [
-        {"zh": "招聘运营", "en": "Recruiting Ops"}
+        {
+          "zh": "招聘运营",
+          "en": "Recruiting Ops"
+        }
       ]
     }
   ],

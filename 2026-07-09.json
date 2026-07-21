@@ -15,7 +15,10 @@
   "newsItems": [
     {
       "id": "r0709-n1",
-      "title": { "zh": "多地明确 AI 招聘工具须留「人工复核」环节", "en": "Regulators require a human-review step in AI hiring tools" },
+      "title": {
+        "zh": "多地明确 AI 招聘工具须留「人工复核」环节",
+        "en": "Regulators require a human-review step in AI hiring tools"
+      },
       "summary": {
         "zh": "监管趋势要求算法初筛后必须有人工复核并可解释拒绝理由，HR 需要保留评估留痕与申诉通道。",
         "en": "Regulatory trend requires human review after algorithmic screening with explainable rejection reasons; HR must keep assessment audit trails and an appeal channel."
@@ -26,7 +29,10 @@
     },
     {
       "id": "r0709-n2",
-      "title": { "zh": "内部人才市场兴起：先内招再外招成新默认", "en": "Internal talent marketplaces rise: fill from within first" },
+      "title": {
+        "zh": "内部人才市场兴起：先内招再外招成新默认",
+        "en": "Internal talent marketplaces rise: fill from within first"
+      },
       "summary": {
         "zh": "企业搭建内部岗位与项目市场，用技能匹配把现有员工调配到缺口岗位，降低招聘成本并提升留任。",
         "en": "Firms build internal role and project marketplaces, matching existing staff to gaps by skill — cutting hiring cost and lifting retention."
@@ -37,7 +43,10 @@
     },
     {
       "id": "r0709-n3",
-      "title": { "zh": "入职 90 天体验直接影响一年留任率", "en": "The first-90-day experience drives one-year retention" },
+      "title": {
+        "zh": "入职 90 天体验直接影响一年留任率",
+        "en": "The first-90-day experience drives one-year retention"
+      },
       "summary": {
         "zh": "研究显示结构化的 30-60-90 天入职计划可显著降低早期离职，关键在明确目标、伙伴制与定期反馈。",
         "en": "Studies show a structured 30-60-90 day onboarding plan sharply reduces early attrition; the keys are clear goals, a buddy system, and regular feedback."
@@ -48,7 +57,10 @@
     },
     {
       "id": "r0709-n4",
-      "title": { "zh": "绩效校准会成对抗打分偏差的标配", "en": "Calibration sessions become standard against rating bias" },
+      "title": {
+        "zh": "绩效校准会成对抗打分偏差的标配",
+        "en": "Calibration sessions become standard against rating bias"
+      },
       "summary": {
         "zh": "跨团队校准会通过横向比对拉齐评分尺度，减少宽严不一与近因效应，让绩效结果更可比、更可辩护。",
         "en": "Cross-team calibration aligns rating scales via side-by-side comparison, reducing leniency gaps and recency bias so results are comparable and defensible."
@@ -59,7 +71,10 @@
     },
     {
       "id": "r0709-n5",
-      "title": { "zh": "人效指标进入董事会议程", "en": "Workforce productivity metrics reach the boardroom" },
+      "title": {
+        "zh": "人效指标进入董事会议程",
+        "en": "Workforce productivity metrics reach the boardroom"
+      },
       "summary": {
         "zh": "人均营收、关键岗位填补周期、再培训投资回报等指标被要求纳入经营汇报，HR 需具备数据叙事能力。",
         "en": "Revenue per employee, time-to-fill for critical roles, and reskilling ROI are now expected in business reviews; HR needs data-storytelling skills."
@@ -76,7 +91,16 @@
         "zh": "绩效校准（Calibration）：多位管理者把各自团队成员的评分放在同一张表上横向比对，讨论评分依据并统一尺度，消除「有人手松有人手紧」的系统偏差。核心不是改分数，而是让不同评委对「什么是 3 分、什么是 5 分」形成共识，使结果可比、可解释、可辩护。",
         "en": "Performance calibration: managers put their teams' ratings on one shared grid, compare side by side, discuss the basis, and align the scale — removing the systematic bias of lenient vs. strict raters. The point isn't changing scores but building consensus on what a '3' vs. a '5' means, making results comparable, explainable, and defensible."
       },
-      "tags": [ { "zh": "绩效校准", "en": "Calibration" }, { "zh": "评分偏差", "en": "Rating Bias" } ]
+      "tags": [
+        {
+          "zh": "绩效校准",
+          "en": "Calibration"
+        },
+        {
+          "zh": "评分偏差",
+          "en": "Rating Bias"
+        }
+      ]
     },
     {
       "id": "r0709-kp2",
@@ -84,7 +108,16 @@
         "zh": "内部人才市场（Internal Talent Marketplace）：把公司内部的空缺岗位、临时项目和轮岗机会做成一个「市场」，用技能标签匹配员工与机会，先内部流动再对外招聘。它把「招人」从默认外求转为盘活存量，降低招聘成本、缩短填补周期，同时给员工成长路径，提升留任。",
         "en": "Internal talent marketplace: turn internal openings, short projects, and rotations into a 'market' that matches employees to opportunities via skill tags — mobilizing internally before hiring externally. It shifts sourcing from default-external to activating existing talent, cutting cost and time-to-fill while giving people growth paths and boosting retention."
       },
-      "tags": [ { "zh": "内部流动", "en": "Internal Mobility" }, { "zh": "技能匹配", "en": "Skill Matching" } ]
+      "tags": [
+        {
+          "zh": "内部流动",
+          "en": "Internal Mobility"
+        },
+        {
+          "zh": "技能匹配",
+          "en": "Skill Matching"
+        }
+      ]
     },
     {
       "id": "r0709-kp3",
@@ -92,7 +125,16 @@
         "zh": "结构化入职（30-60-90 计划）：把新人前三个月拆成三段目标——30 天融入与学习、60 天参与与产出、90 天独立与评估，每段配清晰目标、伙伴制与固定反馈节点。它把「入职」从一次性手续变成可衡量的成长曲线，早期发现问题、显著降低试用期流失。",
         "en": "Structured onboarding (30-60-90 plan): split a new hire's first three months into staged goals — 30 days to absorb and learn, 60 days to contribute, 90 days to operate independently and be assessed — each with clear goals, a buddy, and fixed feedback checkpoints. It turns onboarding from a one-off formality into a measurable growth curve, surfacing issues early and cutting probation-period attrition."
       },
-      "tags": [ { "zh": "结构化入职", "en": "Structured Onboarding" }, { "zh": "员工体验", "en": "Employee Experience" } ]
+      "tags": [
+        {
+          "zh": "结构化入职",
+          "en": "Structured Onboarding"
+        },
+        {
+          "zh": "员工体验",
+          "en": "Employee Experience"
+        }
+      ]
     }
   ],
   "actionItems": [
