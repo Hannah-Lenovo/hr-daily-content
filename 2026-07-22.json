@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-22",
+  "generatedAt": "2026-07-22T09:30:00+08:00",
+  "overview": {
+    "zh": "今日HR热点集中在AI对招聘与人才运营的深度重塑，多智能体AI招聘工具进入落地阶段；薪酬策略从「加大预算」转向「更聪明地分配」，2027年薪资预算趋于稳定；同时裁员与AI招聘工具正成为集体诉讼的主要风险来源。",
+    "en": "Today's HR headlines center on AI deeply reshaping recruiting and talent operations, with multi-agent AI hiring tools now reaching deployment. Compensation strategy is shifting from bigger budgets to smarter pay allocation as 2027 salary budgets stabilize, while layoffs and AI hiring tools emerge as leading triggers for class-action litigation."
+  },
+  "quote": {
+    "text": {
+      "zh": "在招聘中你雇的不是简历，而是一个人的未来潜力。",
+      "en": "You do not hire for skills, you hire for attitude — you can always teach skills."
+    },
+    "author": "Simon Sinek"
+  },
+  "newsItems": [
+    {
+      "id": "r0722-n1",
+      "title": {
+        "zh": "多智能体AI招聘工具正式落地：Eightfold、Paradox、Maki、Radancy等竞相推出",
+        "en": "Multi-Agent AI for Talent Acquisition Arrives: Eightfold, Paradox, Maki, Radancy and More"
+      },
+      "summary": {
+        "zh": "招聘领域进入多智能体AI时代，多家头部厂商推出可协同工作的AI代理，覆盖搜寻、筛选、面试安排到候选人沟通全流程，招聘团队的工作方式正被重新定义。",
+        "en": "Talent acquisition enters the multi-agent AI era as leading vendors launch collaborating AI agents that span sourcing, screening, interview scheduling and candidate engagement, redefining how recruiting teams operate."
+      },
+      "url": "https://joshbersin.com/2026/07/multi-agent-ai-for-talent-acquisition-arrives-eightfold-paradox-maki-radancy-and-more/",
+      "source": "Josh Bersin",
+      "publishedAt": "2026-07-20T08:00:00+08:00"
+    },
+    {
+      "id": "r0722-n2",
+      "title": {
+        "zh": "WTW：雇主从「加大薪酬预算」转向「更聪明的薪酬策略」",
+        "en": "Employers Shift from Bigger Pay Budgets to Smarter Pay Strategies, WTW Finds"
+      },
+      "summary": {
+        "zh": "韦莱韬悦最新研究显示，面对经济不确定性，雇主不再单纯扩大薪酬预算，而是通过精准分配、差异化激励和聚焦关键岗位来提升薪酬投入的回报。",
+        "en": "New WTW research shows that amid economic uncertainty employers are moving away from simply increasing pay budgets toward precise allocation, differentiated incentives and focusing spend on critical roles to raise the return on compensation."
+      },
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327791/0/en/Employers-shift-from-bigger-pay-budgets-to-smarter-pay-strategies-WTW-finds.html",
+      "source": "GlobeNewswire / WTW",
+      "publishedAt": "2026-07-15T20:00:00+08:00"
+    },
+    {
+      "id": "r0722-n3",
+      "title": {
+        "zh": "企业法律顾问：裁员与AI招聘工具成为集体诉讼首要风险",
+        "en": "Workforce Changes Top Lawsuit Trigger, Corporate Counsel Say"
+      },
+      "summary": {
+        "zh": "多位企业法律顾问指出，裁员和AI招聘工具正成为触发集体诉讼的最主要因素，提醒HR在使用算法筛选和实施减员时需强化合规与偏见审查。",
+        "en": "Corporate counsel report that layoffs and AI hiring tools are becoming the leading triggers for class-action litigation, warning HR to strengthen compliance and bias audits when using algorithmic screening and executing workforce reductions."
+      },
+      "url": "https://hrexecutive.com/layoffs-and-ai-hiring-tools-are-driving-class-action-risk-corporate-counsel-say/",
+      "source": "HR Executive",
+      "publishedAt": "2026-07-18T09:00:00+08:00"
+    },
+    {
+      "id": "r0722-n4",
+      "title": {
+        "zh": "SHRM《2026 HR中的AI现状》报告发布",
+        "en": "SHRM Releases The State of AI in HR 2026 Report"
+      },
+      "summary": {
+        "zh": "SHRM发布年度报告，系统评估AI在HR各环节的采用程度、成效与风险，指出AI落地正从试点走向规模化，但治理、技能与信任仍是主要瓶颈。",
+        "en": "SHRM's annual report assesses AI adoption, impact and risks across HR functions, finding that AI is moving from pilots to scale while governance, skills and trust remain the main bottlenecks."
+      },
+      "url": "https://www.shrm.org/topics-tools/research/state-of-ai-hr-2026/full-report",
+      "source": "SHRM",
+      "publishedAt": "2026-07-16T10:00:00+08:00"
+    },
+    {
+      "id": "r0722-n5",
+      "title": {
+        "zh": "HBR研究：AI正在改变雇主对新员工的能力要求",
+        "en": "Research: AI Is Changing What Employers Want from New Hires"
+      },
+      "summary": {
+        "zh": "《哈佛商业评论》最新研究发现，随着AI承担更多常规任务，雇主对新员工的要求正从单纯执行转向判断力、协作和与AI协同工作的能力。",
+        "en": "New Harvard Business Review research finds that as AI handles more routine tasks, employers are shifting new-hire expectations from pure execution toward judgment, collaboration and the ability to work alongside AI."
+      },
+      "url": "https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires",
+      "source": "Harvard Business Review",
+      "publishedAt": "2026-07-14T22:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0722-kp1",
+      "content": {
+        "zh": "AI偏见审计（Bias Audit）是指在使用算法招聘工具前后，系统性检验其对不同性别、种族、年龄等受保护群体是否产生差异化影响。核心逻辑是：算法会放大训练数据里的历史偏见，若不主动检测就可能造成系统性歧视，进而引发法律风险。做法上通常计算各群体的通过率并比较「不利影响比率」（如四五分之四规则），并定期复审。",
+        "en": "A bias audit systematically tests whether an algorithmic hiring tool produces disparate impact on protected groups such as gender, race and age, before and after deployment. The core logic is that algorithms amplify historical bias embedded in training data, so without active testing they can create systemic discrimination and legal exposure. In practice you compute selection rates per group and compare adverse impact ratios (e.g., the four-fifths rule), then re-audit regularly."
+      },
+      "tags": [
+        {
+          "zh": "AI招聘",
+          "en": "AI Hiring"
+        },
+        {
+          "zh": "合规",
+          "en": "Compliance"
+        }
+      ]
+    },
+    {
+      "id": "r0722-kp2",
+      "content": {
+        "zh": "「更聪明的薪酬」（Smarter Pay）强调用有限预算换取最大人才回报。其核心逻辑是：普涨式加薪难以留住关键人才，反而稀释预算；应通过岗位价值分层、绩效差异化和关键技能溢价，把资源集中到对业务影响最大的角色上。落地时需结合市场薪酬数据、内部公平性和员工体验三者平衡。",
+        "en": "Smarter pay focuses on maximizing talent return from a limited budget. Its core logic is that across-the-board raises fail to retain key talent and dilute the budget, so resources should be concentrated on the roles with the greatest business impact through role tiering, performance differentiation and critical-skill premiums. Execution requires balancing market pay data, internal equity and employee experience."
+      },
+      "tags": [
+        {
+          "zh": "薪酬策略",
+          "en": "Compensation Strategy"
+        },
+        {
+          "zh": "人才保留",
+          "en": "Talent Retention"
+        }
+      ]
+    },
+    {
+      "id": "r0722-kp3",
+      "content": {
+        "zh": "多智能体AI（Multi-Agent AI）指由多个专职AI代理协作完成一项复杂流程，而非单一模型包办。在招聘场景中，可能一个代理负责搜寻候选人、一个负责初筛、一个负责安排面试、一个负责沟通。核心逻辑是通过分工与编排提升准确性和可控性，但也要求HR明确每个代理的边界、监督点和人工复核环节。",
+        "en": "Multi-agent AI means several specialized AI agents collaborate to complete a complex process rather than one model doing everything. In recruiting, one agent may source candidates, another screen, another schedule interviews and another handle communication. The core logic is that division of labor and orchestration improve accuracy and control, but HR must define each agent's boundaries, oversight points and human review checkpoints."
+      },
+      "tags": [
+        {
+          "zh": "HR科技",
+          "en": "HR Tech"
+        },
+        {
+          "zh": "自动化",
+          "en": "Automation"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0722-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "针对现有AI招聘或筛选工具启动一次偏见审计：第一步导出近6个月各群体的筛选通过率；第二步计算不利影响比率并对照四五分之四规则；第三步对异常项与供应商核实模型逻辑并记录整改结论。",
+        "en": "Launch a bias audit of your current AI hiring or screening tools: first export selection rates by group for the last six months; second compute adverse impact ratios against the four-fifths rule; third verify model logic with the vendor for any anomalies and document remediation conclusions."
+      }
+    },
+    {
+      "id": "r0722-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "重新审视本年度薪酬预算分配：列出对业务影响最大的关键岗位与稀缺技能，测算若把加薪资源向这些岗位倾斜的留存影响，形成一版「聚焦关键岗位」的差异化调薪方案供管理层评审。",
+        "en": "Revisit this year's compensation budget allocation: list the critical roles and scarce skills with the greatest business impact, model the retention effect of tilting raise dollars toward them, and prepare a differentiated pay proposal focused on key roles for leadership review."
+      }
+    },
+    {
+      "id": "r0722-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "更新新员工能力画像：结合HBR研究，在关键岗位的招聘标准中加入「判断力」「跨职能协作」和「与AI协同工作」三项评估维度，并设计对应的面试问题库。",
+        "en": "Update your new-hire competency profile: informed by the HBR research, add judgment, cross-functional collaboration and ability to work with AI as evaluation dimensions in hiring criteria for key roles, and design a matching interview question bank."
+      }
+    }
+  ]
+}
