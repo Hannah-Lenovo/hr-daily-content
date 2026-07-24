@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T09:30:00+08:00",
+  "overview": {
+    "zh": "今日HR行业焦点集中在多智能体AI进入招聘领域，应届毕业生开始与AI争夺入门级岗位。同时多项美国劳动法规于7月1日生效，涵盖病假、家庭休假与健康计划电子送达。企业面临AI转型的深度落差，多数仍停留在任务级尝试。",
+    "en": "Today HR attention centers on multi-agent AI entering talent acquisition, with new grads now competing against AI for entry-level roles. Several US labor laws took effect July 1 covering sick leave, family leave and health plan e-delivery. Firms face an AI transformation gap, with most stuck at task-level tinkering."
+  },
+  "quote": {
+    "text": {
+      "zh": "在招人之前，先弄清楚你真正需要解决的问题是什么。",
+      "en": "Before you hire, get clear on the problem you are actually trying to solve."
+    },
+    "author": "Laszlo Bock"
+  },
+  "newsItems": [
+    {
+      "id": "r0724-n1",
+      "title": {
+        "zh": "应届毕业生开始与AI争夺入门级岗位",
+        "en": "New grads now compete with AI for entry-level roles"
+      },
+      "summary": {
+        "zh": "招聘经理反映，随着生成式AI能承担大量基础性工作，传统上留给应届生的入门岗位正在被压缩，毕业生需要展示AI无法替代的判断力与协作能力。",
+        "en": "Hiring managers report that as generative AI absorbs routine tasks, the entry-level roles traditionally reserved for new grads are shrinking, pushing graduates to show judgment and collaboration skills that AI cannot replace."
+      },
+      "url": "https://www.hrdive.com/news/new-grads-have-to-compete-with-ai-for-entry-level-roles-hiring/825810/",
+      "source": "HR Dive",
+      "publishedAt": "2026-07-23T20:00:00+08:00"
+    },
+    {
+      "id": "r0724-n2",
+      "title": {
+        "zh": "多智能体AI进入人才招聘：Eightfold、Paradox等厂商发力",
+        "en": "Multi-agent AI arrives for talent acquisition"
+      },
+      "summary": {
+        "zh": "Josh Bersin分析指出，Eightfold、Paradox、Maki、Radancy等厂商正推出可协同工作的多智能体招聘系统，能自动完成筛选、沟通与安排，重塑招聘运营流程。",
+        "en": "Josh Bersin notes that Eightfold, Paradox, Maki and Radancy are rolling out coordinated multi-agent recruiting systems that automate screening, outreach and scheduling, reshaping talent operations."
+      },
+      "url": "https://joshbersin.com/2026/07/multi-agent-ai-for-talent-acquisition-arrives-eightfold-paradox-maki-radancy-and-more/",
+      "source": "Josh Bersin",
+      "publishedAt": "2026-07-22T18:00:00+08:00"
+    },
+    {
+      "id": "r0724-n3",
+      "title": {
+        "zh": "Culture Amp 2026 AI研究：任务级尝试掩盖了转型机会",
+        "en": "Culture Amp 2026 study reveals an AI transformation gap"
+      },
+      "summary": {
+        "zh": "Culture Amp最新研究显示，多数企业仅在单点任务上使用AI，缺乏系统性的组织级转型，导致真正的效率与体验提升被掩盖。",
+        "en": "Culture Amp research finds most organizations use AI only for isolated tasks and lack systemic organization-level transformation, masking the real gains in efficiency and experience."
+      },
+      "url": "https://www.financialcontent.com/article/prunderground-2026-7-22-culture-amps-2026-ai-in-hr-study-reveals-transformation-gap-task-level-tinkering-masks-opportunity",
+      "source": "FinancialContent",
+      "publishedAt": "2026-07-22T10:00:00+08:00"
+    },
+    {
+      "id": "r0724-n4",
+      "title": {
+        "zh": "研究：AI在招聘中比人类更容易形成偏见",
+        "en": "AI is more likely than humans to form biases when hiring"
+      },
+      "summary": {
+        "zh": "MIT科技评论报道，一项研究发现AI在候选人评估中会放大数据里的隐性偏见，提醒HR在部署自动化招聘工具时必须加强审计与公平性监控。",
+        "en": "MIT Technology Review reports research showing AI can amplify hidden biases in candidate data, warning HR to strengthen audits and fairness monitoring when deploying automated hiring tools."
+      },
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-20T22:00:00+08:00"
+    },
+    {
+      "id": "r0724-n5",
+      "title": {
+        "zh": "多项美国职场新规于7月1日生效",
+        "en": "New US workplace laws took effect July 1, 2026"
+      },
+      "summary": {
+        "zh": "Fisher Phillips整理了7月1日生效的职场法规清单，涉及最低工资、病假与休假保护等，企业需及时更新员工手册与合规流程。新泽西还扩大了带薪休假的岗位保护范围。",
+        "en": "Fisher Phillips summarizes workplace laws effective July 1 covering minimum wage, sick leave and leave protections, requiring employers to update handbooks and compliance. New Jersey also expanded job protection for leave recipients."
+      },
+      "url": "https://www.fisherphillips.com/en/insights/insights/employer-cheat-sheet-for-workplace-laws-taking-effect-july-1-2026",
+      "source": "Fisher Phillips",
+      "publishedAt": "2026-07-01T08:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0724-kp1",
+      "content": {
+        "zh": "AI招聘偏见的核心逻辑在于模型从历史数据中学习，而历史数据往往隐含过去的用人偏好。当模型放大这些模式时，会系统性地歧视特定群体。因此HR部署AI工具时，必须建立可解释性、定期偏见审计与人工复核环节，把AI定位为辅助而非最终决策者。",
+        "en": "AI hiring bias arises because models learn from historical data that encodes past hiring preferences. When models amplify these patterns, they can systematically disadvantage certain groups. HR must build explainability, regular bias audits and human review, positioning AI as an aid rather than the final decision maker."
+      },
+      "tags": [
+        {
+          "zh": "AI招聘",
+          "en": "AI Hiring"
+        },
+        {
+          "zh": "公平性",
+          "en": "Fairness"
+        }
+      ]
+    },
+    {
+      "id": "r0724-kp2",
+      "content": {
+        "zh": "多智能体AI的价值不在于单个工具，而在于多个智能体分工协作完成端到端流程：一个负责搜寻候选人，一个负责初筛沟通，一个负责安排面试。理解这一点能帮助HR从买单点工具转向设计整体招聘运营架构，先明确流程再引入自动化。",
+        "en": "The value of multi-agent AI lies not in a single tool but in agents dividing labor across an end-to-end flow: one sources candidates, one screens and communicates, one schedules interviews. Understanding this helps HR shift from buying point tools to designing overall talent operations, mapping the process before automating."
+      },
+      "tags": [
+        {
+          "zh": "多智能体",
+          "en": "Multi-Agent"
+        },
+        {
+          "zh": "招聘运营",
+          "en": "Talent Operations"
+        }
+      ]
+    },
+    {
+      "id": "r0724-kp3",
+      "content": {
+        "zh": "AI转型落差指企业在个别任务上使用AI，却未改变组织流程与决策方式，导致收益停留在表面。突破的关键是从任务级思维升级到能力级思维：识别哪些岗位的产出结构会因AI改变，重新设计角色、技能要求与绩效标准，让AI成为组织能力的一部分。",
+        "en": "The AI transformation gap describes firms using AI on isolated tasks without changing organizational processes or decision-making, keeping gains superficial. Breaking through requires moving from task-level to capability-level thinking: identify which roles change in output structure, and redesign roles, skill requirements and performance standards so AI becomes part of organizational capability."
+      },
+      "tags": [
+        {
+          "zh": "组织转型",
+          "en": "Transformation"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0724-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "对现有招聘中使用的AI筛选工具做一次偏见自查：第一步导出近三个月的筛选通过率并按性别、年龄、院校分组；第二步比对是否存在异常差异；第三步为高风险环节加上人工复核。",
+        "en": "Run a bias self-check on your current AI screening tools: first export pass rates over the last three months grouped by gender, age and school; second compare for anomalous gaps; third add human review to high-risk steps."
+      }
+    },
+    {
+      "id": "r0724-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "梳理一条端到端招聘流程，标出哪些环节可由AI智能体承担、哪些必须保留人工判断，形成一页纸的AI应用地图，作为后续选型依据。",
+        "en": "Map one end-to-end recruiting flow, marking which steps AI agents can handle and which must stay human, producing a one-page AI application map to guide future tool selection."
+      }
+    },
+    {
+      "id": "r0724-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "对照7月1日生效的职场法规清单，更新员工手册中关于病假与休假的条款，并在下次全员沟通中同步关键变化。",
+        "en": "Review the list of workplace laws effective July 1, update sick leave and family leave clauses in the employee handbook, and communicate key changes at the next all-hands."
+      }
+    }
+  ]
+}
