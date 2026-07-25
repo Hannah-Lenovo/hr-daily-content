@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-25T18:00:00+08:00",
+  "overview": {
+    "zh": "今日HR焦点集中在AI对招聘与技能的重塑：多智能体AI进入人才获取环节，研究显示AI在筛选中比人类更易产生偏见，同时企业对新员工能力要求正在改变。薪酬透明立法持续推进，学习发展与工作场所技能储备成为组织投资重点。",
+    "en": "Today's HR focus centers on AI reshaping recruiting and skills: multi-agent AI is entering talent acquisition, research shows AI can be more biased than humans in screening, and employer expectations for new hires are shifting. Pay transparency legislation keeps advancing while learning, development and workforce skills readiness become key investment priorities."
+  },
+  "quote": {
+    "text": {
+      "zh": "在自动化面前，最稀缺的能力是判断力与同理心，而这正是HR的价值所在。",
+      "en": "In the age of automation, the scarcest capabilities are judgment and empathy, and that is precisely where HR creates value."
+    },
+    "author": "Josh Bersin"
+  },
+  "newsItems": [
+    {
+      "id": "r0725-n1",
+      "title": {
+        "zh": "多智能体AI进入人才获取：Eightfold、Paradox等厂商加速布局",
+        "en": "Multi-agent AI arrives for talent acquisition: Eightfold, Paradox and more accelerate"
+      },
+      "summary": {
+        "zh": "多家HR科技厂商推出多智能体AI系统，将简历筛选、面试安排、候选人沟通等环节交由协同的AI代理处理，标志招聘自动化进入代理协作新阶段。",
+        "en": "Several HR tech vendors have launched multi-agent AI systems that hand off screening, interview scheduling and candidate communication to coordinated AI agents, marking a new phase of agentic automation in hiring."
+      },
+      "url": "https://joshbersin.com/2026/07/multi-agent-ai-for-talent-acquisition-arrives-eightfold-paradox-maki-radancy-and-more/",
+      "source": "Josh Bersin",
+      "publishedAt": "2026-07-24T09:00:00+08:00"
+    },
+    {
+      "id": "r0725-n2",
+      "title": {
+        "zh": "研究：AI在招聘中比人类更容易形成偏见",
+        "en": "Research: AI is more likely than humans to form biases when hiring"
+      },
+      "summary": {
+        "zh": "MIT科技评论报道的最新研究发现，AI在筛选候选人时可能放大而非消除偏见，提醒企业在部署招聘AI时必须建立审计与人工复核机制。",
+        "en": "New research reported by MIT Technology Review finds AI may amplify rather than remove bias when screening candidates, warning employers to build auditing and human review safeguards before deploying hiring AI."
+      },
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-20T20:00:00+08:00"
+    },
+    {
+      "id": "r0725-n3",
+      "title": {
+        "zh": "研究：AI正在改变雇主对新员工的能力要求",
+        "en": "Research: AI is changing what employers want from new hires"
+      },
+      "summary": {
+        "zh": "《哈佛商业评论》研究指出，随着AI承担更多执行性任务，雇主对新员工更看重判断力、协作与适应能力，基础技能岗位的入门门槛正在被重新定义。",
+        "en": "A Harvard Business Review study finds that as AI takes on more execution tasks, employers increasingly value judgment, collaboration and adaptability from new hires, redefining entry-level skill expectations."
+      },
+      "url": "https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires",
+      "source": "Harvard Business Review",
+      "publishedAt": "2026-07-18T21:00:00+08:00"
+    },
+    {
+      "id": "r0725-n4",
+      "title": {
+        "zh": "2026年中薪酬透明更新：职位发布成为雇主合规重点",
+        "en": "Midyear pay transparency update: job postings lead employer obligations"
+      },
+      "summary": {
+        "zh": "Jackson Lewis指出，已有16个州及华盛顿特区实施薪酬透明法规，职位发布中的薪资范围披露成为2026年雇主合规的核心要求。",
+        "en": "Jackson Lewis reports 16 states plus DC now have pay transparency laws, making salary range disclosure in job postings a core compliance requirement for employers in 2026."
+      },
+      "url": "https://www.jacksonlewis.com/insights/midyear-pay-transparency-update-job-postings-lead-employer-responsibilities",
+      "source": "Jackson Lewis",
+      "publishedAt": "2026-07-15T22:00:00+08:00"
+    },
+    {
+      "id": "r0725-n5",
+      "title": {
+        "zh": "HiBob推出AI技能框架，助力组织构建AI时代工作力储备",
+        "en": "HiBob launches AI Skills Framework to build workforce readiness for the AI era"
+      },
+      "summary": {
+        "zh": "HiBob发布AI技能框架与技能评估指南，帮助企业系统化盘点员工AI相关能力，弥合技能缺口并支撑面向AI时代的人才发展规划。",
+        "en": "HiBob released an AI Skills Framework and assessment guide to help organizations systematically map employees' AI-related capabilities, close skill gaps and support talent development planning for the AI era."
+      },
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332067/0/en/HiBob-launches-AI-Skills-Framework-and-a-new-AI-Skills-Assessment-Guide-to-help-organizations-build-workforce-readiness-for-the-AI-Era.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-23T15:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0725-kp1",
+      "content": {
+        "zh": "算法偏见的根源在于训练数据与优化目标。当历史招聘数据本身带有偏向时，AI会将这种模式当作『成功特征』加以强化，从而在规模化筛选中放大偏见。要控制它，需要在数据层做去偏采样，在模型层做公平性约束，并在流程层保留人工复核与定期审计。三者缺一不可。",
+        "en": "Algorithmic bias stems from training data and optimization targets. When historical hiring data is skewed, AI treats the pattern as a success signal and reinforces it, amplifying bias at scale. Controlling it requires debiased sampling at the data layer, fairness constraints at the model layer, and human review plus regular audits at the process layer, all three together."
+      },
+      "tags": [
+        {
+          "zh": "AI招聘",
+          "en": "AI Hiring"
+        },
+        {
+          "zh": "公平性",
+          "en": "Fairness"
+        }
+      ]
+    },
+    {
+      "id": "r0725-kp2",
+      "content": {
+        "zh": "薪酬透明的核心逻辑是通过信息对称降低薪资谈判中的结构性不平等。当薪资范围公开，求职者与员工获得议价基准，企业则被迫建立可解释的薪酬结构。它倒逼组织从『按人定薪』转向『按岗定薪』，长期有助于缩小群体间薪酬差距,但也要求HR提前梳理薪酬带宽与内部公平性。",
+        "en": "The core logic of pay transparency is reducing structural inequality in salary negotiation through information symmetry. When ranges are public, candidates and employees gain a bargaining baseline while employers must build explainable pay structures. It pushes organizations from person-based to role-based pay, helping narrow group pay gaps over time, but requires HR to sort out pay bands and internal equity in advance."
+      },
+      "tags": [
+        {
+          "zh": "薪酬透明",
+          "en": "Pay Transparency"
+        },
+        {
+          "zh": "合规",
+          "en": "Compliance"
+        }
+      ]
+    },
+    {
+      "id": "r0725-kp3",
+      "content": {
+        "zh": "技能框架的价值在于把模糊的『能力』转化为可测量、可对比、可发展的结构化单元。它先定义岗位所需技能与熟练度层级，再通过评估获得当前技能画像，最后用差距分析驱动培训与内部流动。在AI时代,技能框架让组织能够快速识别哪些能力可被AI替代、哪些需要人机协作,从而做出更精准的人才投资决策。",
+        "en": "A skills framework turns vague notions of capability into measurable, comparable and developable structured units. It first defines the skills and proficiency levels a role needs, then builds a current skills profile through assessment, and finally uses gap analysis to drive training and internal mobility. In the AI era, a skills framework lets organizations quickly identify which capabilities can be automated and which need human-AI collaboration, enabling sharper talent investment decisions."
+      },
+      "tags": [
+        {
+          "zh": "技能框架",
+          "en": "Skills Framework"
+        },
+        {
+          "zh": "人才发展",
+          "en": "Talent Development"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0725-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "本周对正在使用或计划采购的招聘AI工具做一次偏见审计：1)导出近三个月AI筛选通过率，按性别、年龄、院校等维度拆分对比；2)对差异显著的维度标记并要求供应商说明模型逻辑；3)在关键岗位加入人工复核关卡。",
+        "en": "Run a bias audit this week on any recruiting AI in use or under evaluation: 1) export the last three months of AI pass-through rates and break them down by gender, age and school; 2) flag dimensions with significant gaps and ask vendors to explain the model logic; 3) add a human review checkpoint for key roles."
+      }
+    },
+    {
+      "id": "r0725-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "梳理公司所有对外职位发布模板：1)确认目标招聘地区是否属于已实施薪酬透明的16州及特区；2)为受影响岗位补充清晰的薪资范围字段；3)同步检查内部相同岗位的薪酬带宽是否与对外披露一致，避免公平性质疑。",
+        "en": "Review all external job posting templates: 1) confirm whether target hiring locations fall under the 16 states plus DC with pay transparency laws; 2) add clear salary range fields for affected roles; 3) check that internal pay bands for the same roles match the disclosed ranges to avoid equity challenges."
+      }
+    },
+    {
+      "id": "r0725-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "启动一个小范围的AI技能盘点试点：1)选取1个核心部门,列出其岗位所需的3-5项AI相关技能;2)用简单自评加主管评估的方式获得技能画像;3)标出最大的两个技能缺口作为下季度培训投入方向。",
+        "en": "Kick off a small-scale AI skills mapping pilot: 1) pick one core department and list 3-5 AI-related skills its roles need; 2) build a skills profile using simple self-assessment plus manager review; 3) identify the two largest skill gaps as training priorities for next quarter."
+      }
+    }
+  ]
+}
