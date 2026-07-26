@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T09:30:00+08:00",
+  "overview": {
+    "zh": "AI 正深度重塑招聘全流程，从多智能体人才获取平台到求职者普遍使用 AI 辅助面试，人机博弈成为焦点。二季度招聘需求同比回暖，机器人、新材料、AI 等新质生产力行业保持较高增速，但 AI 招聘偏见与信任问题引发行业反思。",
+    "en": "AI is deeply reshaping the entire recruitment pipeline, from multi-agent talent acquisition platforms to candidates widely using AI to assist interviews, making human-machine dynamics the focus. Q2 hiring demand recovered year over year with robotics, new materials and AI leading growth, yet AI hiring bias and trust concerns are prompting industry reflection."
+  },
+  "quote": {
+    "text": {
+      "zh": "招人时慢一点，因为解雇一个人的代价远高于耐心筛选的成本。",
+      "en": "Hire slowly, because the cost of letting someone go far exceeds the cost of patient selection."
+    },
+    "author": "Jim Collins"
+  },
+  "newsItems": [
+    {
+      "id": "r0726-n1",
+      "title": {
+        "zh": "《2026人力资源管理趋势报告》发布：超两成企业核心业务流程嵌入 AI",
+        "en": "2026 HR Management Trends Report: Over 20% of firms embed AI into core business processes"
+      },
+      "summary": {
+        "zh": "报告显示超过两成企业已将 AI 嵌入核心业务流程，HR 部门在人才招聘、绩效与员工体验等场景加速引入智能工具，人机协作成为组织能力建设的新方向。",
+        "en": "The report finds over 20% of enterprises have embedded AI into core business processes, with HR accelerating adoption in recruitment, performance and employee experience, making human-machine collaboration a new capability priority."
+      },
+      "url": "https://news.qq.com/rain/a/20260424A092LA00",
+      "source": "腾讯新闻",
+      "publishedAt": "2026-07-26T08:00:00+08:00"
+    },
+    {
+      "id": "r0726-n2",
+      "title": {
+        "zh": "多智能体 AI 进入人才获取领域：Eightfold、Paradox、Maki 等平台落地",
+        "en": "Multi-agent AI arrives for talent acquisition: Eightfold, Paradox, Maki and more"
+      },
+      "summary": {
+        "zh": "Josh Bersin 指出，多智能体 AI 正走进招聘场景，Eightfold、Paradox、Maki、Radancy 等平台通过协作型智能体自动完成筛选、沟通与面试安排，重塑招聘团队的工作方式。",
+        "en": "Josh Bersin notes multi-agent AI is entering recruitment, with Eightfold, Paradox, Maki and Radancy using collaborative agents to automate screening, outreach and interview scheduling, reshaping how hiring teams work."
+      },
+      "url": "https://joshbersin.com/2026/07/multi-agent-ai-for-talent-acquisition-arrives-eightfold-paradox-maki-radancy-and-more/",
+      "source": "Josh Bersin",
+      "publishedAt": "2026-07-26T07:30:00+08:00"
+    },
+    {
+      "id": "r0726-n3",
+      "title": {
+        "zh": "MIT 研究：AI 在招聘中比人类更易形成偏见",
+        "en": "MIT study: AI is more likely than humans to form biases when hiring"
+      },
+      "summary": {
+        "zh": "《麻省理工科技评论》报道最新研究发现，AI 在招聘决策中比人类更容易形成并放大偏见，提醒 HR 在部署自动化筛选工具时须建立审计与纠偏机制。",
+        "en": "MIT Technology Review reports new research finding AI is more prone than humans to form and amplify biases in hiring decisions, urging HR to build auditing and debiasing safeguards when deploying automated screening tools."
+      },
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-26T09:00:00+08:00"
+    },
+    {
+      "id": "r0726-n4",
+      "title": {
+        "zh": "二季度招聘企业数同比增 8.5%，新质生产力行业增速领先",
+        "en": "Q2 hiring firm count up 8.5% YoY, new-productivity sectors lead growth"
+      },
+      "summary": {
+        "zh": "新浪财经数据显示，二季度招聘企业数量同比增加 8.5%，机器人、新材料、人工智能等新质生产力行业招聘保持较高增速，反映结构性人才需求持续升温。",
+        "en": "Sina Finance data shows the number of hiring firms rose 8.5% year over year in Q2, with robotics, new materials and AI new-productivity sectors sustaining strong growth, reflecting rising structural talent demand."
+      },
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniiusme4595276.shtml",
+      "source": "新浪财经",
+      "publishedAt": "2026-07-26T08:20:00+08:00"
+    },
+    {
+      "id": "r0726-n5",
+      "title": {
+        "zh": "SHRM《2026 HR 中的 AI 现状》报告：应用广但深度不足",
+        "en": "SHRM State of AI in HR 2026: broad adoption but shallow depth"
+      },
+      "summary": {
+        "zh": "SHRM 发布《2026 HR 中的 AI 现状》报告，指出多数组织的 AI 应用仍停留在任务层面的零星尝试，缺乏系统性转型，存在明显的能力与价值落差。",
+        "en": "SHRM released its State of AI in HR 2026 report, noting most organizations remain at task-level tinkering without systematic transformation, revealing a clear capability and value gap."
+      },
+      "url": "https://www.shrm.org/topics-tools/research/state-of-ai-hr-2026/full-report",
+      "source": "SHRM",
+      "publishedAt": "2026-07-26T07:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0726-kp1",
+      "content": {
+        "zh": "AI 招聘偏见的根源在于训练数据中隐含的历史性歧视模式，模型会在优化目标下把这些相关性当作预测信号并放大。防控关键是三层：数据层面清洗与再平衡样本，模型层面做公平性约束与去偏训练，流程层面建立人工复核与定期审计。切勿把算法当作中立黑箱直接决策。",
+        "en": "AI hiring bias stems from historical discrimination patterns embedded in training data, which models treat as predictive signals and amplify under optimization objectives. Control requires three layers: cleaning and rebalancing samples at the data level, applying fairness constraints and debiasing at the model level, and establishing human review plus regular audits at the process level. Never treat the algorithm as a neutral black box that decides on its own."
+      },
+      "tags": [
+        {
+          "zh": "AI招聘",
+          "en": "AI Recruiting"
+        },
+        {
+          "zh": "公平性",
+          "en": "Fairness"
+        }
+      ]
+    },
+    {
+      "id": "r0726-kp2",
+      "content": {
+        "zh": "多智能体招聘系统把招聘拆分为筛选、沟通、面试安排等子任务，由多个专职智能体协作完成。其价值在于并行处理与端到端自动化，但也要求 HR 重新设计流程边界与交接点，明确哪些决策必须保留人工。落地前应先做小范围试点并设定可回退方案。",
+        "en": "Multi-agent recruiting systems break hiring into subtasks like screening, outreach and scheduling, handled by specialized agents working together. Their value lies in parallel processing and end-to-end automation, but they require HR to redesign process boundaries and handoffs and to define which decisions must stay human. Pilot narrowly with a rollback plan before scaling."
+      },
+      "tags": [
+        {
+          "zh": "多智能体",
+          "en": "Multi-Agent"
+        },
+        {
+          "zh": "流程设计",
+          "en": "Process Design"
+        }
+      ]
+    },
+    {
+      "id": "r0726-kp3",
+      "content": {
+        "zh": "当求职者普遍用 AI 辅助简历与面试时，传统的关键词匹配与标准化问答失去区分度。HR 应把评估重心转向真实工作样本、情境模拟与现场协作任务，考察候选人在不确定情境下的判断力，而非其借助工具产出答案的能力。",
+        "en": "When candidates widely use AI to assist resumes and interviews, traditional keyword matching and standardized Q&A lose discriminating power. HR should shift assessment toward real work samples, situational simulations and live collaborative tasks that probe judgment under uncertainty, rather than a candidate's ability to produce tool-assisted answers."
+      },
+      "tags": [
+        {
+          "zh": "人才评估",
+          "en": "Talent Assessment"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0726-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "对现有 AI 招聘或简历筛选工具做一次偏见自查：抽取近三个月候选人数据，按性别、年龄、院校等维度统计通过率差异；发现异常波动即暂停该环节自动决策并加入人工复核。",
+        "en": "Run a bias self-audit on current AI recruiting or screening tools: pull the last three months of candidate data and compare pass rates across gender, age and school dimensions; where anomalies appear, pause automated decisions in that step and add human review."
+      }
+    },
+    {
+      "id": "r0726-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "针对求职者普遍使用 AI 的现状，在本周内为一个核心岗位设计一份真实工作样本测试或情境模拟题，替换部分标准化问答，用于下一轮面试试点。",
+        "en": "In response to widespread candidate AI use, design a real work-sample test or situational simulation for one core role this week to replace part of the standardized Q&A, piloting it in the next interview round."
+      }
+    },
+    {
+      "id": "r0726-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "组织团队研读 SHRM《2026 HR 中的 AI 现状》报告，梳理本组织 AI 应用停留在任务层面的具体场景，列出可升级为系统性流程的两到三个候选方向。",
+        "en": "Have the team study the SHRM State of AI in HR 2026 report, map where your organization's AI use remains at the task level, and list two to three candidate areas that could be upgraded into systematic processes."
+      }
+    }
+  ]
+}
