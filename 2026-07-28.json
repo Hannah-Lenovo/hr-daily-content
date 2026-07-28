@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T09:30:00+08:00",
+  "overview": {
+    "zh": "今日HR行业焦点集中在AI招聘的「军备竞赛」：求职者用AI批量投递、招聘方用AI批量筛选，形成效率与信任的双重困境。多智能体（Multi-Agent）招聘工具进入落地阶段，同时企业开始反思AI偏见与过度自动化，部分岗位重新回归人工判断。",
+    "en": "Today's HR focus centers on the AI recruiting arms race: candidates mass-apply with AI while recruiters mass-filter with AI, creating a doom loop of efficiency and eroding trust. Multi-agent recruiting tools are reaching real deployment, even as firms reckon with AI bias and over-automation, bringing some human judgment back into hiring."
+  },
+  "quote": {
+    "text": {
+      "zh": "招人时慢一点，因为解雇很难；行动要快，工作要努力。",
+      "en": "Hire slowly, because firing is hard; act fast and work hard."
+    },
+    "author": "Sheryl Sandberg"
+  },
+  "newsItems": [
+    {
+      "id": "r0728-n1",
+      "title": {
+        "zh": "Greenhouse CEO警告招聘陷入AI「厄运循环」",
+        "en": "Greenhouse CEO warns hiring is stuck in an AI doom loop"
+      },
+      "summary": {
+        "zh": "求职者花约20美元用AI向每个岗位海量投递，招聘方则用AI批量过滤，双方军备竞赛让匹配质量下降、信任受损，Greenhouse CEO称之为招聘的厄运循环。",
+        "en": "Job seekers pay around 20 dollars to have AI spam applications to every role while recruiters deploy AI to filter them, an arms race the Greenhouse CEO calls a doom loop that degrades match quality and trust."
+      },
+      "url": "https://fortune.com/2026/07/27/greenhouse-ceo-daniel-chait-ai-doom-loop-job-seekers-spam-interview-applications-unemployment/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-27T22:00:00+08:00"
+    },
+    {
+      "id": "r0728-n2",
+      "title": {
+        "zh": "多智能体AI进入人才招聘：Eightfold、Paradox、Maki等落地",
+        "en": "Multi-agent AI arrives for talent acquisition: Eightfold, Paradox, Maki and more"
+      },
+      "summary": {
+        "zh": "Josh Bersin指出，招聘技术正从单点AI工具转向协同的多智能体系统，能自动完成搜寻、初筛、沟通与安排面试，标志招聘自动化进入编排式新阶段。",
+        "en": "Josh Bersin notes recruiting tech is shifting from single-point AI tools to coordinated multi-agent systems that can source, screen, communicate and schedule automatically, marking a new orchestrated phase of hiring automation."
+      },
+      "url": "https://joshbersin.com/2026/07/multi-agent-ai-for-talent-acquisition-arrives-eightfold-paradox-maki-radancy-and-more/",
+      "source": "Josh Bersin",
+      "publishedAt": "2026-07-15T20:00:00+08:00"
+    },
+    {
+      "id": "r0728-n3",
+      "title": {
+        "zh": "MIT研究：AI在招聘中比人类更易产生偏见",
+        "en": "MIT study: AI is more likely than humans to form biases when hiring"
+      },
+      "summary": {
+        "zh": "MIT Technology Review报道的一项研究显示，招聘AI在缺乏严格约束时会放大对候选人群体的系统性偏见，提醒企业在部署自动筛选前必须做偏见审计与人工复核。",
+        "en": "A study reported by MIT Technology Review finds hiring AI can amplify systematic bias against candidate groups without strict guardrails, urging firms to run bias audits and human review before deploying automated screening."
+      },
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-20T18:00:00+08:00"
+    },
+    {
+      "id": "r0728-n4",
+      "title": {
+        "zh": "Zappyhire报告：81%企业招聘团队已采用AI",
+        "en": "Zappyhire report: 81 percent of enterprise hiring teams have adopted AI"
+      },
+      "summary": {
+        "zh": "Zappyhire的2026 AI招聘趋势报告显示，81%的企业招聘团队已引入人工智能用于筛选、沟通与效率提升，AI在企业级招聘中已从试点走向规模化应用。",
+        "en": "Zappyhire's 2026 AI hiring trends report shows 81 percent of enterprise hiring teams now use AI for screening, communication and efficiency, moving AI from pilot to scaled adoption in enterprise recruiting."
+      },
+      "url": "https://www.timesnownews.com/business-economy/economy/ai-hiring-trends-2026-81-enterprise-hiring-teams-adopt-artificial-intelligence-zappyhire-report-reveals-article-155185631",
+      "source": "Times Now",
+      "publishedAt": "2026-07-18T16:00:00+08:00"
+    },
+    {
+      "id": "r0728-n5",
+      "title": {
+        "zh": "AI成本与局限迫使部分企业重新雇回人类",
+        "en": "AI's rising costs and limits are forcing employers to hire humans back"
+      },
+      "summary": {
+        "zh": "IBTimes报道，多位高管表示AI在招聘与运营中的成本上升和能力边界，正促使企业重新评估过度自动化，并把部分岗位重新交还给人类员工。",
+        "en": "IBTimes reports executives say rising AI costs and capability limits are pushing employers to reassess over-automation and bring humans back into some roles."
+      },
+      "url": "https://www.ibtimes.co.uk/us-employers-reassess-ai-resume-hiring-1810927",
+      "source": "IBTimes UK",
+      "publishedAt": "2026-07-22T15:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0728-kp1",
+      "content": {
+        "zh": "AI招聘的「厄运循环」本质是双边军备竞赛：当供需双方都用AI放大信号量，噪声也同步放大，信息不对称不降反升。破解的关键不是更强的过滤，而是重建可信信号，例如结构化技能验证、可核验的作品与工作样本，让真实能力而非投递数量成为筛选依据。",
+        "en": "The AI hiring doom loop is fundamentally a two-sided arms race: when both supply and demand use AI to amplify signal volume, noise scales up too and information asymmetry worsens. The fix is not stronger filtering but rebuilding trusted signals, such as structured skills verification and verifiable work samples, so that real capability rather than application volume drives screening."
+      },
+      "tags": [
+        {
+          "zh": "招聘策略",
+          "en": "Recruiting Strategy"
+        },
+        {
+          "zh": "AI招聘",
+          "en": "AI Hiring"
+        }
+      ]
+    },
+    {
+      "id": "r0728-kp2",
+      "content": {
+        "zh": "AI偏见并非算法凭空产生，而是历史数据中既有偏见的放大器。模型从过往录用决策中学习模式，会把人类的系统性偏好固化并规模化执行。因此负责任的AI招聘必须包含三层防护：训练数据审计、决策结果的分组公平性监控、以及关键节点的人工复核，缺一不可。",
+        "en": "AI bias is not conjured by algorithms but amplified from bias already present in historical data. Models learn patterns from past hiring decisions and can lock in and scale human preferences. Responsible AI recruiting therefore needs three layers of protection: training-data audits, group-fairness monitoring of outcomes, and human review at key decision points."
+      },
+      "tags": [
+        {
+          "zh": "算法公平",
+          "en": "Algorithmic Fairness"
+        },
+        {
+          "zh": "合规",
+          "en": "Compliance"
+        }
+      ]
+    },
+    {
+      "id": "r0728-kp3",
+      "content": {
+        "zh": "多智能体招聘系统的价值在于「编排」而非单点替代：搜寻、初筛、沟通、排期由不同智能体协作完成，HR的角色从执行者转为流程设计者与质量把关者。落地成功的前提是明确每个智能体的职责边界、可观测的交接点，以及对最终录用决策保留人类否决权。",
+        "en": "The value of multi-agent recruiting systems lies in orchestration rather than point replacement: sourcing, screening, communication and scheduling are handled by cooperating agents, shifting HR from executor to process designer and quality gatekeeper. Successful deployment requires clear responsibility boundaries per agent, observable handoff points, and a retained human veto over final hiring decisions."
+      },
+      "tags": [
+        {
+          "zh": "HR科技",
+          "en": "HR Tech"
+        },
+        {
+          "zh": "自动化",
+          "en": "Automation"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0728-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "本周对现有AI筛选工具做一次偏见与合规审计：第一步导出近三个月被AI淘汰的候选人样本；第二步按性别、年龄段、院校等维度做通过率分组对比；第三步对显著差异的环节加入人工复核，并记录审计结论备查。",
+        "en": "Run a bias and compliance audit of your AI screening tools this week: first export a sample of candidates rejected by AI in the last three months; second compare pass rates across gender, age band and school; third add human review to any stage with significant gaps and document the audit findings for the record."
+      }
+    },
+    {
+      "id": "r0728-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "针对海量投递重建可信信号：在关键岗位的申请流程中加入一个15分钟的结构化技能小测或工作样本任务，用真实产出替代简历数量作为初筛依据，降低AI批量投递带来的噪声。",
+        "en": "Rebuild trusted signals against application floods: add a 15-minute structured skills test or work-sample task to the application flow for key roles, using real output instead of application volume as the screening basis to cut noise from AI mass-applications."
+      }
+    },
+    {
+      "id": "r0728-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "评估多智能体招聘工具的引入路径：先挑选一个高频、低风险的环节（如面试排期或初筛问答）做小范围试点，明确智能体职责边界与人工把关点，跑通两周后再评估是否扩大范围。",
+        "en": "Assess an adoption path for multi-agent recruiting tools: pick one high-frequency, low-risk step such as interview scheduling or initial screening Q and A for a small pilot, define agent responsibility boundaries and human checkpoints, run it for two weeks, then evaluate whether to expand scope."
+      }
+    }
+  ]
+}
