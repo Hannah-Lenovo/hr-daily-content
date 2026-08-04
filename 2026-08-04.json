@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T09:30:00+08:00",
+  "overview": {
+    "zh": "AI 已成为招聘主流工具，ZipRecruiter 数据显示 92% 雇主已在招聘中使用 AI，招聘门槛随之抬高，企业更看重「能拿结果的人」而非仅会用工具的人。与此同时，2026 年多州劳动法合规要求趋严，薪酬透明与 AI 招聘监管成为 HR 重点议题。",
+    "en": "AI has become mainstream in recruiting, with ZipRecruiter reporting 92% of employers now use it, raising the hiring bar toward outcome-getters over mere tool users. Meanwhile, 2026 brings tighter multi-state labor compliance, with pay transparency and AI-hiring regulation topping the HR agenda."
+  },
+  "quote": {
+    "text": {
+      "zh": "招人不是填补空位，而是为组织的未来投资。",
+      "en": "Hiring is not about filling a seat, it is about investing in the future of the organization."
+    },
+    "author": "Lou Adler"
+  },
+  "newsItems": [
+    {
+      "id": "r0804-n1",
+      "title": {
+        "zh": "ZipRecruiter：92% 雇主已使用 AI，招聘门槛持续抬高",
+        "en": "ZipRecruiter: 92% of Employers Use AI and the Hiring Bar Is Rising"
+      },
+      "summary": {
+        "zh": "最新调研显示 92% 的雇主已在招聘流程中引入 AI，从简历筛选到面试评估广泛应用。AI 提升效率的同时也抬高了对候选人的要求，企业更看重实际产出能力。",
+        "en": "New research shows 92% of employers have adopted AI across hiring, from resume screening to interview evaluation. As AI boosts efficiency, expectations for candidates rise, with firms prioritizing real output ability."
+      },
+      "url": "https://ai2.work/blog/ziprecruiter-92-of-employers-use-ai-and-the-hiring-bar-is-rising",
+      "source": "AI2Work",
+      "publishedAt": "2026-08-03T20:00:00+08:00"
+    },
+    {
+      "id": "r0804-n2",
+      "title": {
+        "zh": "工具使用者与结果获取者：招聘出现新的分水岭",
+        "en": "The Tool Users and the Outcome-Getters: Hiring's New Dividing Line"
+      },
+      "summary": {
+        "zh": "HRM Asia 指出，随着 AI 普及，会用工具已不再是优势，能用工具持续拿到业务结果的人才成为招聘核心目标，人才评估标准正从技能清单转向价值产出。",
+        "en": "HRM Asia notes that as AI spreads, merely using tools is no longer an edge; those who use tools to consistently deliver business outcomes are the real hiring target, shifting assessment from skill lists to value creation."
+      },
+      "url": "https://hrmasia.com/the-tool-users-and-the-outcome-getters-hirings-new-diving-line/",
+      "source": "HRM Asia",
+      "publishedAt": "2026-08-02T18:00:00+08:00"
+    },
+    {
+      "id": "r0804-n3",
+      "title": {
+        "zh": "生物识别与线下核验：雇主如何为招聘「防 AI 作弊」",
+        "en": "Biometric Scans and Outlet Checks: How Employers Are AI-Proofing Hiring"
+      },
+      "summary": {
+        "zh": "面对候选人借助 AI 造假简历与面试作弊，越来越多雇主引入生物识别、现场核验与线下测评等手段，以确保招聘真实性，推动面试流程重新回归线下与实操验证。",
+        "en": "Facing AI-assisted resume fraud and interview cheating, more employers are adopting biometric scans, in-person verification and offline assessments to safeguard authenticity, pushing interviews back toward live and hands-on validation."
+      },
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/03/biometric-scans-outlet-checks-how-employers-are-ai-proofing-hiring",
+      "source": "The Star",
+      "publishedAt": "2026-08-03T10:00:00+08:00"
+    },
+    {
+      "id": "r0804-n4",
+      "title": {
+        "zh": "精准优于规模：2026 招聘新规则",
+        "en": "Precision Over Scale: The New Rules of Hiring in 2026"
+      },
+      "summary": {
+        "zh": "SHRM 分析 2026 人才招聘趋势，认为「大规模海投」正让位于「精准匹配」。企业收缩招聘漏斗，聚焦关键岗位与高契合候选人，用数据驱动质量而非数量。",
+        "en": "SHRM's 2026 talent acquisition analysis argues mass sourcing is giving way to precision matching. Companies narrow the funnel, focus on key roles and high-fit candidates, and use data to drive quality over quantity."
+      },
+      "url": "https://www.shrm.org/topics-tools/news/talent-acquisition/talent-acquisition-management-trends-2026",
+      "source": "SHRM",
+      "publishedAt": "2026-08-01T09:00:00+08:00"
+    },
+    {
+      "id": "r0804-n5",
+      "title": {
+        "zh": "2026 雇主必须准备的 5 项 HR 合规变化",
+        "en": "5 HR Compliance Changes in 2026 Every Employer Must Prepare For"
+      },
+      "summary": {
+        "zh": "ADP 梳理 2026 年 HR 合规重点，涵盖薪酬透明立法扩围、AI 招聘工具监管、多州用工规则差异与工时休假新规，提醒 HR 提前建立合规审计与文档流程。",
+        "en": "ADP outlines 2026 HR compliance priorities, including expanding pay transparency laws, AI hiring-tool regulation, multi-state employment rule differences and new leave rules, urging HR to build audits and documentation ahead of time."
+      },
+      "url": "https://www.adp.com/spark/articles/2025/12/key-hr-compliance-trends-for-2026-and-how-to-get-ahead.aspx",
+      "source": "ADP SPARK",
+      "publishedAt": "2026-07-30T15:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0804-kp1",
+      "content": {
+        "zh": "结构化面试（Structured Interview）的核心逻辑是对所有候选人使用相同的问题、相同的评分标准与相同的评估维度，从而降低主观偏见、提高预测效度。相比自由发挥的非结构化面试，结构化面试对工作绩效的预测力显著更高，也更容易在 AI 招聘时代形成可复核、可合规的记录。落地时应先做岗位分析，提炼关键胜任力，再据此设计行为面试题与锚定式评分表。",
+        "en": "The core logic of a structured interview is asking every candidate the same questions with the same scoring rubric and same evaluation dimensions, reducing bias and improving predictive validity. It predicts job performance far better than unstructured interviews and produces auditable, compliant records well suited to the AI-hiring era. To apply it, start with job analysis, distill key competencies, then design behavioral questions and anchored rating scales."
+      },
+      "tags": [
+        {
+          "zh": "招聘",
+          "en": "Recruiting"
+        },
+        {
+          "zh": "面试",
+          "en": "Interview"
+        }
+      ]
+    },
+    {
+      "id": "r0804-kp2",
+      "content": {
+        "zh": "薪酬透明（Pay Transparency）指在招聘公告或内部制度中公开薪资区间与定薪逻辑。其核心逻辑是通过信息对称减少薪酬歧视、缩小性别与群体薪酬差距，并提升候选人信任与雇主品牌。2026 年多地立法要求职位公告披露薪资范围，HR 需先完成岗位评估与薪酬带宽梳理，确保对外区间与内部公平性一致，避免同岗不同酬引发合规风险。",
+        "en": "Pay transparency means disclosing salary ranges and pay logic in job postings or internal policy. Its core logic is using information symmetry to reduce pay discrimination, narrow gender and group pay gaps, and build candidate trust and employer brand. As 2026 laws increasingly require posting ranges, HR must first complete job evaluation and pay-band mapping so external ranges align with internal equity and avoid same-role pay-gap compliance risk."
+      },
+      "tags": [
+        {
+          "zh": "薪酬",
+          "en": "Compensation"
+        },
+        {
+          "zh": "合规",
+          "en": "Compliance"
+        }
+      ]
+    },
+    {
+      "id": "r0804-kp3",
+      "content": {
+        "zh": "技能矩阵（Skills Matrix）是把团队成员与岗位所需技能映射成二维表格的工具，行是人、列是技能，格子记录掌握程度。其核心逻辑是让能力缺口可视化，从而支撑精准招聘、内部调配与培训计划。在「精准优于规模」的招聘趋势下，先用技能矩阵识别真正缺失的关键能力，再据此定义招聘画像，可显著减少无效招聘与错配。",
+        "en": "A skills matrix maps team members against role-required skills in a two-dimensional grid, with people as rows, skills as columns, and cells recording proficiency. Its core logic is making capability gaps visible to support precise hiring, internal mobility and training plans. Amid the precision-over-scale trend, using it first to identify the truly missing critical skills, then defining the hiring profile, sharply cuts ineffective hires and mismatches."
+      },
+      "tags": [
+        {
+          "zh": "人才发展",
+          "en": "Talent Development"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0804-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "针对核心岗位落地结构化面试：第一步梳理该岗位的 4-6 项关键胜任力；第二步为每项能力设计 1-2 道行为面试题；第三步制定 1-5 分锚定式评分表并培训面试官；第四步在下一场面试中试用并回收评分数据校准。",
+        "en": "Roll out structured interviews for a core role: first define 4-6 key competencies; second design 1-2 behavioral questions per competency; third build a 1-5 anchored rating scale and train interviewers; fourth pilot it in the next interview and collect scores to calibrate."
+      }
+    },
+    {
+      "id": "r0804-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "开展一次 AI 招聘工具合规自查：列出目前使用的所有 AI 筛选或评估工具，确认其是否有偏见审计报告，检查招聘公告是否已按当地新规披露薪资区间，并记录数据处理与候选人告知流程以备核查。",
+        "en": "Run an AI-hiring compliance self-check: list all AI screening or assessment tools in use, confirm whether each has a bias-audit report, verify job postings disclose salary ranges per local rules, and document data-handling and candidate-notice processes for audit."
+      }
+    },
+    {
+      "id": "r0804-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "为团队建立技能矩阵初版：第一步在表格中列出团队成员与岗位所需技能；第二步让成员与主管分别评估掌握程度（1-4 级）；第三步标出关键能力缺口，作为下季度招聘与培训的输入。",
+        "en": "Build a first version of a team skills matrix: first list team members and role-required skills in a table; second have members and managers rate proficiency (levels 1-4); third flag critical gaps as input for next quarter's hiring and training."
+      }
+    }
+  ]
+}
