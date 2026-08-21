@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T18:30:00+08:00",
+  "overview": {
+    "zh": "今日HR焦点集中在AI招聘合规与薪酬公平两大主线。加州、伊利诺伊等州新规将AI辅助招聘视为受监管的用工行为，要求透明度与偏差审计；与此同时约三分之一雇主发放的「花生酱式」普涨难抵通胀，导致核心人才流失加剧。多数美国雇主计划扩招，但岗位「有却难填」的技能错配问题突出。",
+    "en": "Today's HR agenda centers on AI hiring compliance and pay equity. New state rules in California and Illinois treat AI-assisted hiring as a regulated employment practice demanding transparency and bias audits, while roughly a third of employers gave thin across-the-board raises that fail to beat inflation, accelerating top-talent attrition. Most U.S. employers plan to hire more, yet a skills mismatch leaves jobs open but hard to fill."
+  },
+  "quote": {
+    "text": {
+      "zh": "在你能衡量之前，招聘只是猜测；数据把直觉变成决策。",
+      "en": "Until you can measure it, hiring is just guessing; data turns instinct into decisions."
+    },
+    "author": "Josh Bersin"
+  },
+  "newsItems": [
+    {
+      "id": "r0821-n1",
+      "title": {
+        "zh": "AI招聘进入新合规时代：加州与伊利诺伊聚焦歧视性影响与透明度",
+        "en": "AI-Assisted Hiring Faces a New Compliance Landscape in 2026"
+      },
+      "summary": {
+        "zh": "加州和伊利诺伊的新规将AI辅助招聘明确界定为受监管的用工行为，要求雇主对算法进行偏差审计、保留记录并向求职者披露AI使用情况，违规将面临歧视追责。",
+        "en": "New rules in California and Illinois classify AI-assisted hiring as a regulated employment practice, requiring bias audits, recordkeeping and candidate disclosure of AI use, with discrimination liability for violations."
+      },
+      "url": "https://www.manatt.com/insights/newsletters/employment-law/ai-assisted-hiring-faces-a-new-compliance-landscape-in-2026-california-and-illinois-put-discriminatory-impact-and-transparency-front-and-center",
+      "source": "Manatt, Phelps & Phillips",
+      "publishedAt": "2026-08-18T09:00:00+08:00"
+    },
+    {
+      "id": "r0821-n2",
+      "title": {
+        "zh": "超三成雇主发放「花生酱式」普涨，低薪导致顶尖人才离职",
+        "en": "A Third of Employers Handed Out Peanut Butter Raises, Underpaid Staff Are Leaving"
+      },
+      "summary": {
+        "zh": "调查显示逾三分之一雇主今年采取雨露均沾式小幅普涨，难以跑赢通胀；约四分之一管理者承认因薪酬缺乏竞争力而失去核心人才。",
+        "en": "Over a third of employers spread thin, uniform raises this year that fail to beat inflation, and about a quarter of bosses admit losing top talent because pay was not competitive."
+      },
+      "url": "https://fortune.com/2026/08/06/over-a-third-employers-handed-out-peanut-butter-raises-2026-quarter-of-bosses-admit-losing-top-talent-bad-pay/",
+      "source": "Fortune",
+      "publishedAt": "2026-08-06T20:00:00+08:00"
+    },
+    {
+      "id": "r0821-n3",
+      "title": {
+        "zh": "多数美国雇主计划今年增招，但岗位「有却难填」",
+        "en": "Most U.S. Employers Plan to Hire, Yet Jobs Are Harder to Fill"
+      },
+      "summary": {
+        "zh": "过半雇主表示计划扩招并列出最紧缺岗位，但招聘经理反映因技能错配和候选人质量问题，空缺岗位比以往更难填补。",
+        "en": "A majority of employers say they plan to increase hiring and named the top roles they want, but hiring managers report open jobs are harder to fill due to skills mismatch and candidate-quality gaps."
+      },
+      "url": "https://fortune.com/2026/08/12/majority-of-u-s-employers-say-they-plan-to-increase-hiring-top-roles-theyre-looking-for/",
+      "source": "Fortune",
+      "publishedAt": "2026-08-12T20:00:00+08:00"
+    },
+    {
+      "id": "r0821-n4",
+      "title": {
+        "zh": "AI正在重塑员工奖励策略",
+        "en": "AI Is Reshaping Employee Rewards Strategy"
+      },
+      "summary": {
+        "zh": "企业开始借助AI分析薪酬与福利数据，实现个性化、动态化的奖励设计，帮助HR在预算约束下更精准地投放激励、提升留任率。",
+        "en": "Companies are using AI to analyze pay and benefits data for personalized, dynamic rewards design, helping HR target incentives more precisely within budget constraints and improve retention."
+      },
+      "url": "https://www.benefitnews.com/news/ai-is-reshaping-employee-rewards-strategy",
+      "source": "Employee Benefit News",
+      "publishedAt": "2026-08-15T10:00:00+08:00"
+    },
+    {
+      "id": "r0821-n5",
+      "title": {
+        "zh": "工作稳定性有价：许多员工愿为安全感付费",
+        "en": "Job Security Has a Price, and Many Workers Will Pay for It"
+      },
+      "summary": {
+        "zh": "新数据显示在不确定的经济环境下，相当比例员工愿意接受较低涨薪或福利以换取更稳定的岗位，提示HR应把「安全感」纳入价值主张。",
+        "en": "New data shows that amid economic uncertainty a notable share of workers will trade lower raises or perks for greater job stability, signaling HR should build security into the employee value proposition."
+      },
+      "url": "https://hrexecutive.com/employees-will-pay-for-job-security-new-data-shows/",
+      "source": "HR Executive",
+      "publishedAt": "2026-08-13T11:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0821-kp1",
+      "content": {
+        "zh": "AI招聘合规的核心是「可解释与可审计」。监管要求雇主证明算法未对受保护群体产生歧视性影响，因此需保留训练数据来源、评分逻辑与决策记录，并做定期偏差审计。落地关键是把AI定位为受监管的用工决策工具，而非普通软件采购，法务与HR须共同治理。",
+        "en": "The core of AI hiring compliance is explainability and auditability. Regulators require employers to prove algorithms do not create discriminatory impact on protected groups, so you must retain training-data provenance, scoring logic and decision records, and run periodic bias audits. The key is treating AI as a regulated employment-decision tool, jointly governed by legal and HR, not a plain software purchase."
+      },
+      "tags": [
+        {
+          "zh": "AI合规",
+          "en": "AI Compliance"
+        },
+        {
+          "zh": "招聘",
+          "en": "Recruiting"
+        }
+      ]
+    },
+    {
+      "id": "r0821-kp2",
+      "content": {
+        "zh": "「花生酱式加薪」指把有限预算均匀薄涂给所有人，结果人人都涨但都不够。其逻辑缺陷在于忽视绩效与市场分位差异，使高绩效者的实际购买力下降而萌生去意。更优做法是差异化配薪：向关键岗位与高潜人才倾斜，用市场数据锚定薪酬带宽。",
+        "en": "A peanut butter raise spreads a limited budget thinly across everyone, so all get something but none get enough. Its flaw is ignoring performance and market-percentile differences, eroding high performers' real purchasing power and prompting exits. A better approach is differentiated pay: weight toward critical roles and high-potential talent, anchored to market data bands."
+      },
+      "tags": [
+        {
+          "zh": "薪酬",
+          "en": "Compensation"
+        },
+        {
+          "zh": "留任",
+          "en": "Retention"
+        }
+      ]
+    },
+    {
+      "id": "r0821-kp3",
+      "content": {
+        "zh": "「岗位有却难填」本质是技能错配而非需求不足。当职位描述堆砌过多硬性要求、且内部技能地图缺失时，合格候选人被系统性筛除。解法是基于技能而非学历/头衔的招聘，拆解岗位为可迁移技能组合，并打通内部流动与再培训通道。",
+        "en": "Jobs that exist but are hard to fill reflect a skills mismatch, not weak demand. When job descriptions pile on rigid requirements and internal skills maps are missing, qualified candidates get screened out systematically. The fix is skills-based hiring rather than degree or title filters, decomposing roles into transferable skill sets and enabling internal mobility and reskilling."
+      },
+      "tags": [
+        {
+          "zh": "技能招聘",
+          "en": "Skills-Based Hiring"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0821-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "盘点现有AI招聘工具：1)列出所有使用AI的筛选/评分环节；2)向供应商索取偏差审计报告与数据来源说明；3)在求职流程中加入AI使用披露；4)与法务确认所在辖区的披露与留存义务。",
+        "en": "Audit current AI hiring tools: 1) list every AI-driven screening or scoring step; 2) request bias-audit reports and data-provenance docs from vendors; 3) add AI-use disclosure to the candidate flow; 4) confirm jurisdiction disclosure and retention duties with legal."
+      }
+    },
+    {
+      "id": "r0821-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "复盘本年度调薪结构：1)对比各岗位薪酬与市场分位；2)识别低于市场且绩效突出的高流失风险人员；3)将部分普涨预算转为差异化留任加薪并制定沟通话术。",
+        "en": "Review this year's pay adjustments: 1) benchmark roles against market percentiles; 2) identify high performers below market with elevated flight risk; 3) reallocate part of the across-the-board budget into differentiated retention raises with a clear communication script."
+      }
+    },
+    {
+      "id": "r0821-ai3",
+      "priority": "medium",
+      "content": {
+        "zh": "改造难填岗位的招聘方式：1)选1-2个长期空缺岗位重写JD，将硬性学历要求改为核心技能；2)开放内部转岗与再培训报名；3)用结构化技能测评替代简历初筛。",
+        "en": "Rework hiring for hard-to-fill roles: 1) pick one or two chronically open roles and rewrite the JD, replacing rigid degree requirements with core skills; 2) open internal transfer and reskilling sign-ups; 3) replace resume screening with structured skills assessments."
+      }
+    }
+  ]
+}
