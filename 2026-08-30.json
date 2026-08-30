@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T09:30:00+08:00",
+  "overview": {
+    "zh": "AI持续重塑招聘与人才市场，AI智能体开发人才需求同比大涨244%，大厂招聘向AI能力倾斜。招聘方普遍开始信任并主动管理AI工具带来的问题，75%的高频招聘雇主认为AI显著降低了招聘官的工作负荷。应届生对AI的就业替代效应感知增强，人机协作成为2026年人才管理主线。",
+    "en": "AI keeps reshaping recruiting and the talent market, with demand for AI-agent developers up 244% year over year and large employers tilting hiring toward AI skills. Hiring managers increasingly trust AI while actively managing its issues, and 75% of high-volume employers say AI meaningfully reduces recruiter workload. New graduates feel AI's displacement effect more sharply, making human-AI collaboration the defining theme of 2026 talent management."
+  },
+  "quote": {
+    "text": {
+      "zh": "先把合适的人请上车，再决定车要开向哪里。",
+      "en": "Get the right people on the bus first, then figure out where to drive it."
+    },
+    "author": "Jim Collins"
+  },
+  "newsItems": [
+    {
+      "id": "r0830-n1",
+      "title": {
+        "zh": "AI之风吹进就业市场：AI智能体开发人才需求大涨244%",
+        "en": "AI Sweeps the Job Market: Demand for AI-Agent Developers Surges 244%"
+      },
+      "summary": {
+        "zh": "央视网报道，随着AI智能体（Agent）技术落地加速，相关开发岗位需求同比大涨244%，成为当前就业市场最热门的技能方向之一，企业争抢兼具工程与业务理解的复合型人才。",
+        "en": "CCTV reports that as AI-agent technology accelerates into production, demand for related development roles has surged 244% year over year, making it one of the hottest skill areas as firms compete for talent that blends engineering with business understanding."
+      },
+      "url": "https://finance.cctv.cn/2026/08/28/ARTIxnofbL409vkM6skY5WRh260828.shtml",
+      "source": "央视网 CCTV",
+      "publishedAt": "2026-08-28T10:00:00+08:00"
+    },
+    {
+      "id": "r0830-n2",
+      "title": {
+        "zh": "前程无忧报告：超三成应届生已感知AI的就业替代效应",
+        "en": "51job Report: Over 30% of New Graduates Already Feel AI's Job-Replacement Effect"
+      },
+      "summary": {
+        "zh": "前程无忧最新调研显示，超过三成应届毕业生表示已在求职与岗位需求中感受到AI带来的替代压力，基础性、重复性岗位需求收缩，具备AI应用能力的候选人更受青睐。",
+        "en": "A new 51job survey finds that more than a third of fresh graduates say they already feel AI-driven displacement pressure in job seeking, with demand shrinking for basic repetitive roles while candidates with AI application skills are favored."
+      },
+      "url": "https://www.163.com/dy/article/L56U6HHN05199DKK.html",
+      "source": "前程无忧 51job",
+      "publishedAt": "2026-08-27T14:00:00+08:00"
+    },
+    {
+      "id": "r0830-n3",
+      "title": {
+        "zh": "招聘经理称信任AI但会主动管理其问题",
+        "en": "Hiring Managers Say They Trust AI but Actively Manage Its Issues"
+      },
+      "summary": {
+        "zh": "HR Dive报道，多数招聘经理已开始信任AI招聘工具，但同时保持人工复核与偏差监控，主动管理算法偏见、误判和候选人体验等风险，形成人机协作的治理机制。",
+        "en": "HR Dive reports that most hiring managers now trust AI recruiting tools while keeping human review and bias monitoring in place, actively managing risks such as algorithmic bias, misjudgment and candidate experience through human-AI governance."
+      },
+      "url": "https://www.hrdive.com/news/hiring-managers-say-they-trust-ai-but-actively-manage-issues-with-it/828884/",
+      "source": "HR Dive",
+      "publishedAt": "2026-08-26T09:00:00+08:00"
+    },
+    {
+      "id": "r0830-n4",
+      "title": {
+        "zh": "iCIMS与Lighthouse研究：75%高频招聘雇主称AI降低招聘官负荷",
+        "en": "iCIMS and Lighthouse: 75% of High-Volume Employers Say AI Reduces Recruiter Workload"
+      },
+      "summary": {
+        "zh": "iCIMS与Lighthouse Research联合研究发现，75%的高频招聘雇主认为AI显著降低了招聘官的工作负荷，让团队把精力从筛选事务转向候选人关系与雇主品牌建设。",
+        "en": "A joint study by iCIMS and Lighthouse Research finds 75% of high-volume employers say AI significantly reduces recruiter workload, freeing teams to shift from screening tasks toward candidate relationships and employer branding."
+      },
+      "url": "https://www.prnewswire.com/news-releases/icims-and-lighthouse-research-find-75-of-high-volume-employers-say-ai-reduces-recruiter-workload-302859053.html",
+      "source": "PR Newswire",
+      "publishedAt": "2026-08-25T21:00:00+08:00"
+    },
+    {
+      "id": "r0830-n5",
+      "title": {
+        "zh": "Korn Ferry：2026人才招聘趋势步入人机协作新时代",
+        "en": "Korn Ferry: 2026 Talent Acquisition Trends Enter a Human-AI Collaboration Era"
+      },
+      "summary": {
+        "zh": "光辉国际（Korn Ferry）2026人才招聘趋势报告指出，招聘正从工具化的AI应用迈向人机协作新阶段，技能优先、内部流动与数据驱动的候选人洞察成为组织竞争关键。",
+        "en": "Korn Ferry's 2026 talent acquisition trends report says recruiting is moving from tool-based AI use into a new human-AI collaboration stage, where skills-first hiring, internal mobility and data-driven candidate insight become key competitive levers."
+      },
+      "url": "https://www.kornferry.com/zh/insights/articles/ai-in-recruitment-trends",
+      "source": "Korn Ferry",
+      "publishedAt": "2026-08-24T16:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0830-kp1",
+      "content": {
+        "zh": "技能优先招聘（Skills-First Hiring）指以岗位所需的具体能力而非学历或既往头衔作为筛选与录用的核心依据。其核心逻辑是：能力与岗位绩效的相关性远高于文凭；用结构化技能画像匹配候选人，可扩大人才池、减少偏见并提升内部流动。落地时需要先建立岗位技能地图，再用测评与实操验证，最后把技能数据贯穿招聘、晋升与培训全链路。",
+        "en": "Skills-first hiring means selecting and hiring based on the specific competencies a role requires rather than degrees or prior titles. Its core logic: ability correlates with job performance far more than credentials do; matching candidates via structured skill profiles widens the talent pool, reduces bias and boosts internal mobility. To apply it, first build a role skills map, validate with assessments and work samples, then thread skills data through hiring, promotion and training."
+      },
+      "tags": [
+        {
+          "zh": "招聘策略",
+          "en": "Recruiting Strategy"
+        },
+        {
+          "zh": "技能优先",
+          "en": "Skills-First"
+        }
+      ]
+    },
+    {
+      "id": "r0830-kp2",
+      "content": {
+        "zh": "人机协作招聘的治理原则是「AI做规模、人做判断」。AI擅长海量简历筛选、初步排序与自动沟通，但存在算法偏见与误判风险；因此关键决策需保留人工复核、可解释性与偏差监控。有效的做法是明确AI与招聘官的职责边界，定期审计模型输出，并向候选人保持透明，以兼顾效率与公平。",
+        "en": "The governing principle of human-AI recruiting is 'AI for scale, humans for judgment.' AI excels at mass resume screening, initial ranking and automated outreach but carries bias and misjudgment risks; therefore key decisions must retain human review, explainability and bias monitoring. Best practice is to define clear responsibility boundaries between AI and recruiters, audit model outputs regularly, and stay transparent with candidates to balance efficiency and fairness."
+      },
+      "tags": [
+        {
+          "zh": "HR科技",
+          "en": "HR Tech"
+        },
+        {
+          "zh": "AI治理",
+          "en": "AI Governance"
+        }
+      ]
+    },
+    {
+      "id": "r0830-kp3",
+      "content": {
+        "zh": "内部流动（Internal Mobility）指优先通过内部调岗、晋升与项目轮换来填补空缺，而非一味外部招聘。其价值在于：内部候选人上手快、留存率高、招聘成本低，并向员工传递成长信号。实施要点是建立透明的内部岗位市场、以技能数据支撑匹配，并让管理者接受「培养并释放人才」的绩效导向。",
+        "en": "Internal mobility means filling openings first through internal transfers, promotions and project rotations rather than always hiring externally. Its value: internal candidates ramp faster, retain better and cost less to hire, while signaling growth to employees. Keys to execution are a transparent internal talent marketplace, skills data to support matching, and rewarding managers for developing and releasing talent rather than hoarding it."
+      },
+      "tags": [
+        {
+          "zh": "人才发展",
+          "en": "Talent Development"
+        },
+        {
+          "zh": "员工留存",
+          "en": "Retention"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0830-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "为一个核心岗位建立技能地图：1) 列出该岗位最关键的5-8项能力；2) 为每项能力定义可观察的行为标准；3) 设计1道对应的实操或情景题用于面试验证；今日完成初稿并与用人经理确认。",
+        "en": "Build a skills map for one core role: 1) list the 5-8 most critical competencies; 2) define observable behavioral standards for each; 3) design one work-sample or scenario question per competency for interviews; finish a draft today and confirm with the hiring manager."
+      }
+    },
+    {
+      "id": "r0830-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "审计现有AI招聘工具：1) 导出上月AI筛选的通过率与拒绝率并按性别、年龄段分组；2) 检查是否存在明显偏差；3) 标记需要人工复核的环节，形成一页纸的改进清单。",
+        "en": "Audit your current AI recruiting tools: 1) export last month's AI pass and reject rates and break them down by gender and age band; 2) check for obvious bias; 3) flag the steps that need human review and produce a one-page improvement checklist."
+      }
+    },
+    {
+      "id": "r0830-ai3",
+      "priority": "low",
+      "content": {
+        "zh": "启动内部流动信号：1) 在内部渠道公开1个当前空缺及其技能要求；2) 邀请符合条件的在职员工申请；3) 记录报名情况作为内部人才市场的试点数据。",
+        "en": "Kick off an internal mobility signal: 1) publicly post one current opening and its skill requirements on internal channels; 2) invite qualified current employees to apply; 3) record applications as pilot data for an internal talent marketplace."
+      }
+    }
+  ]
+}
