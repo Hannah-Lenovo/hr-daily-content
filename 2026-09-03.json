@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T10:00:00+08:00",
+  "overview": {
+    "zh": "今日HR焦点集中在薪酬政策与合规监管。9月1日起多地最低工资标准上调,中央层面亦释放全国涨工资信号,薪酬体系面临调整压力。同时EEOC拟取消人口统计报告要求引发合规讨论,斯坦福研究显示AI暴露岗位的初级招聘持续下滑,人才结构性变化值得警惕。",
+    "en": "Today HR focus centers on compensation policy and compliance. From September 1 minimum wage standards rose in several regions, with central signals for nationwide raises pressuring pay systems. Meanwhile EEOC proposal to end demographic reporting sparks compliance debate, and Stanford research shows entry-level hiring keeps sinking in AI-exposed jobs."
+  },
+  "quote": {
+    "text": {
+      "zh": "在你雇用只想要工作的人和想要为你工作的人之间,要选择后者。",
+      "en": "When hiring, choose people who want to work for you, not just those who want a job."
+    },
+    "author": "Simon Sinek"
+  },
+  "newsItems": [
+    {
+      "id": "r0903-n1",
+      "title": {
+        "zh": "9月1日起最低工资标准调整",
+        "en": "Minimum wage standards adjusted from September 1"
+      },
+      "summary": {
+        "zh": "多地自9月1日起上调最低工资标准,用人单位支付低于新标准的工资将构成违法。HR需及时核查薪资合规,调整低薪岗位与试用期工资。",
+        "en": "Several regions raised minimum wage standards from September 1; employers paying below the new floor are in violation. HR must promptly audit pay compliance and adjust low-wage roles and probation salaries."
+      },
+      "url": "https://news.10jqka.com.cn/20260901/c679494615.shtml",
+      "source": "同花顺",
+      "publishedAt": "2026-09-03T09:00:00+08:00"
+    },
+    {
+      "id": "r0903-n2",
+      "title": {
+        "zh": "中央高层发文全国涨工资",
+        "en": "Central leadership issues nationwide wage-increase signal"
+      },
+      "summary": {
+        "zh": "中央层面发文推动全国范围工资增长,被解读为提振消费与保障民生的重要信号。企业薪酬策略需关注政策导向,平衡人力成本与合规要求。",
+        "en": "Central leadership issued guidance promoting nationwide wage growth, read as a key signal to boost consumption and safeguard livelihoods. Corporate pay strategies must track policy direction."
+      },
+      "url": "https://www.backchina.com/news/2026/09/03/1045714.html",
+      "source": "倍可亲",
+      "publishedAt": "2026-09-03T08:15:00+08:00"
+    },
+    {
+      "id": "r0903-n3",
+      "title": {
+        "zh": "EEOC拟取消人口统计报告",
+        "en": "EEOC seeks to end demographic reporting"
+      },
+      "summary": {
+        "zh": "HR Dive报道,美国EEOC拟取消EEO人口统计报告要求,但专家提醒明智的企业不会停止内部多元化数据测量,以持续追踪公平与包容进展。",
+        "en": "HR Dive reports US EEOC seeks to rescind EEO demographic reporting, but experts warn smart companies will not stop measuring internally to keep tracking equity and inclusion progress."
+      },
+      "url": "https://www.hrdive.com/news/eeo-form-rescission-what-now/829331/",
+      "source": "HR Dive",
+      "publishedAt": "2026-09-03T07:00:00+08:00"
+    },
+    {
+      "id": "r0903-n4",
+      "title": {
+        "zh": "斯坦福研究：AI暴露岗位的初级招聘持续下滑",
+        "en": "Stanford finds entry-level hiring keeps sinking in AI-exposed jobs"
+      },
+      "summary": {
+        "zh": "斯坦福最新研究发现,在受AI影响较大的职业中,初级岗位招聘量持续下降,引发对青年就业与人才梯队断层的担忧。",
+        "en": "Stanford research finds entry-level hiring continues to decline in AI-exposed occupations, raising concerns about youth employment and talent-pipeline gaps."
+      },
+      "url": "https://ai2.work/blog/entry-level-hiring-keeps-sinking-in-ai-exposed-jobs-stanford-finds",
+      "source": "AI2Work",
+      "publishedAt": "2026-09-03T05:30:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0903-kp1",
+      "content": {
+        "zh": "最低工资合规的核心逻辑：最低工资通常指剔除加班费、特殊津贴后的应发基础工资。标准上调后,HR需重点核查三类风险：试用期工资是否达标、计件工资折算后是否达标、以及社保基数是否同步调整,避免因基础工资偏低触发系统性违法。",
+        "en": "Core logic of minimum-wage compliance: minimum wage usually means base pay excluding overtime and special allowances. After increases, HR should check three risks: whether probation pay meets the floor, whether piece-rate pay converts to compliant levels, and whether social-insurance bases adjust in sync."
+      },
+      "tags": [
+        {
+          "zh": "薪酬合规",
+          "en": "Pay Compliance"
+        },
+        {
+          "zh": "最低工资",
+          "en": "Minimum Wage"
+        }
+      ]
+    },
+    {
+      "id": "r0903-kp2",
+      "content": {
+        "zh": "多元化数据测量的价值不在于合规报表本身,而在于识别人才流程中的系统性偏差。即使外部报告要求取消,企业仍应内部追踪招聘漏斗、晋升率、薪酬差距的群体分布数据。核心逻辑是：不测量就无法管理,数据是发现并修正无意识偏见的唯一客观依据。",
+        "en": "Value of diversity data measurement lies not in compliance reports but in identifying systemic bias in talent processes. Even if external reporting requirements are removed, companies should internally track group distributions. Core logic: you cannot manage what you don't measure."
+      },
+      "tags": [
+        {
+          "zh": "多元包容",
+          "en": "Diversity Inclusion"
+        },
+        {
+          "zh": "人才分析",
+          "en": "People Analytics"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0903-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "启动最低工资合规专项核查：对照各地新标准列出所有低于或接近最低工资的岗位,核查试用期、计件工资折算后是否达标,同步检查社保缴费基数,出具整改清单并在本月内完成调整。",
+        "en": "Launch minimum-wage compliance audit: list all roles below or near the new local floors, check whether probation and piece-rate pay meet standards, verify social-insurance bases in sync, produce remediation list and complete adjustments within the month."
+      }
+    },
+    {
+      "id": "r0903-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "建立内部多元化数据看板：即便外部报告要求变化,也要持续追踪招聘各阶段通过率、晋升率、薪酬中位数的群体分布,每季度复盘一次,识别异常差距并制定改进措施。",
+        "en": "Build internal diversity dashboard: regardless of external reporting changes, keep tracking pass rates across hiring stages, promotion rates and median pay by group; review quarterly and set improvement measures."
+      }
+    }
+  ]
+}
