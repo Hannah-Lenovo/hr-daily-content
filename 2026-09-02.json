@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:00:00+08:00",
+  "overview": {
+    "zh": "今日HR焦点落在技能型招聘革命、校招合规风波与劳动者在关键时刻更信任人类而非AI。福布斯探讨技能优先招聘如何重塑人才发展,国内星宇股份大规模解约应届生事件引发用工合规警示,Staffmark研究发现求职者在录用决策等关键环节仍希望与真人互动。",
+    "en": "Today's HR focus lands on the skills-based hiring revolution, campus-recruiting compliance storms, and workers trusting people over AI at critical moments. Forbes explores how skills-first hiring reshapes talent development, domestic incidents of mass graduate-offer rescissions trigger compliance warnings, and Staffmark research finds job seekers still prefer human interaction at key decision points."
+  },
+  "quote": {
+    "text": {
+      "zh": "文化能把战略当早餐吃掉。",
+      "en": "Culture eats strategy for breakfast."
+    },
+    "author": "Peter Drucker"
+  },
+  "newsItems": [
+    {
+      "id": "r0902-n1",
+      "title": {
+        "zh": "技能型招聘与人才发展的革命",
+        "en": "The revolution in skills-based hiring and talent development"
+      },
+      "summary": {
+        "zh": "福布斯商业委员会文章指出,企业正从学历加经验转向技能加潜力的招聘模式,强调可验证的技能评估与持续学习文化,打破传统职业路径束缚。",
+        "en": "Forbes Business Council article notes companies are shifting from degree-plus-experience to skills-plus-potential hiring models, emphasizing verifiable skill assessments and continuous learning cultures that break traditional career-path constraints."
+      },
+      "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2026/09/02/the-revolution-in-skills-based-hiring-and-talent-development/",
+      "source": "Forbes",
+      "publishedAt": "2026-09-02T08:00:00+08:00"
+    },
+    {
+      "id": "r0902-n2",
+      "title": {
+        "zh": "星宇股份解约107名应届生引发用工合规警钟",
+        "en": "Mass graduate-offer rescissions trigger compliance alarm"
+      },
+      "summary": {
+        "zh": "国内汽车零部件企业星宇股份在入职前5天批量解约应届生,引发舆论哗然。事件凸显校招流程中Offer法律效力、企业社会责任与雇主品牌风险管理的重要性。",
+        "en": "Domestic auto-parts firm rescinded graduate offers five days before onboarding, sparking public outcry. The incident highlights the legal effect of campus offers, corporate social responsibility, and employer-brand risk management."
+      },
+      "url": "https://news.jinxun.cc/gz/202609/4546055.html",
+      "source": "今讯网",
+      "publishedAt": "2026-09-02T07:30:00+08:00"
+    },
+    {
+      "id": "r0902-n3",
+      "title": {
+        "zh": "求职者在关键时刻选择人而非AI",
+        "en": "Workers choose people over AI at critical hiring moments"
+      },
+      "summary": {
+        "zh": "Staffmark Group最新调研显示,尽管求职者接受AI辅助筛选,但在最终录用通知、薪酬谈判等关键环节,他们更希望与真人HR沟通以建立信任。",
+        "en": "Staffmark Group research shows that while job seekers accept AI-assisted screening, they prefer human HR contact at critical moments like final offers and salary negotiation to build trust."
+      },
+      "url": "https://staffmark.com/workers-choose-people-over-ai-at-hirings-most-critical-moments-new-staffmark-group-research-finds/",
+      "source": "Staffmark",
+      "publishedAt": "2026-09-02T05:30:00+08:00"
+    },
+    {
+      "id": "r0902-n4",
+      "title": {
+        "zh": "江苏新规禁用高薪等模糊表述",
+        "en": "Jiangsu bans vague salary terms in job ads"
+      },
+      "summary": {
+        "zh": "江苏省人社部门发文要求招聘信息不得使用高薪等模糊表达,需明示薪资区间与构成,以保护劳动者知情权、减少招聘欺诈。",
+        "en": "Jiangsu HR authorities mandate hiring ads must not use vague terms, requiring explicit salary ranges and composition to protect workers' right to information and reduce recruitment fraud."
+      },
+      "url": "https://news.china.com/socialgd/10000169/20260903/49716089.html",
+      "source": "中华网",
+      "publishedAt": "2026-09-02T04:00:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0902-kp1",
+      "content": {
+        "zh": "技能型招聘的核心是用可验证的技能测试替代学历与年限筛选。实施要点:拆解岗位为具体技能清单,设计情景化测评如编程挑战、案例分析,建立技能档案追踪员工成长。优势是扩大人才池、减少偏见,挑战是测评设计成本与内部阻力。",
+        "en": "Skills-based hiring replaces degree and tenure filters with verifiable skill tests. Implementation includes decomposing roles into skill lists, designing scenario assessments, and building skill profiles. Benefits include wider talent pools and reduced bias; challenges are design costs and resistance."
+      },
+      "tags": [
+        {
+          "zh": "技能招聘",
+          "en": "Skills Hiring"
+        },
+        {
+          "zh": "招聘创新",
+          "en": "Hiring Innovation"
+        }
+      ]
+    },
+    {
+      "id": "r0902-kp2",
+      "content": {
+        "zh": "校招Offer的法律效力:在中国劳动法框架下,企业发出录用通知后单方撤回可能构成缔约过失,需承担信赖利益损失。HR应在Offer中明确生效条件、建立HC管控机制,避免仓促毁约损害雇主品牌。",
+        "en": "Legal effect of campus offers: under China labor law, unilateral rescission after issuing an offer may constitute precontractual fault requiring compensation. HR should specify conditions precedent and establish headcount controls to avoid brand damage from hasty rescissions."
+      },
+      "tags": [
+        {
+          "zh": "劳动法",
+          "en": "Labor Law"
+        },
+        {
+          "zh": "校招合规",
+          "en": "Campus Compliance"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0902-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "审查校招Offer模板:确认是否明确列出生效条件,核查HC冻结机制,制定毁约应急预案包括法务评估、补偿标准、公关口径。",
+        "en": "Audit campus-offer templates: confirm conditions precedent are explicit, verify headcount freeze mechanisms, draft rescission contingency plan including legal assessment, compensation standards, and PR messaging."
+      }
+    },
+    {
+      "id": "r0902-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "为试点岗位设计技能型招聘流程:拆解岗位为5-7项核心技能,为每项设计15-30分钟实操测评,对比传统流程的留任率与绩效。",
+        "en": "Design skills-based hiring for pilot role: decompose into 5-7 core skills, design 15-30-minute assessments per skill, compare retention and performance against traditional process."
+      }
+    }
+  ]
+}

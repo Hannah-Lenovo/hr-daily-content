@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T10:00:00+08:00",
+  "overview": {
+    "zh": "今日HR领域聚焦人才战略三大支柱对齐、技能型招聘革命与AI驱动的组织重构。多项研究表明AI正推动劳动力重新设计而非单纯裁员，45%的企业正猎聘AI原生人才以弥补管理者技能缺口。同时，招聘经理越来越重视候选人个性而非仅看技能。",
+    "en": "Today's HR landscape focuses on three-pillar talent strategy alignment, the skills-based hiring revolution, and AI-driven workforce redesign. Multiple studies show AI is driving workforce redesign rather than reduction alone, with 45 percent of firms hunting for AI-native talent to fill manager skill gaps. Meanwhile, hiring managers increasingly value candidate personality over skills alone."
+  },
+  "quote": {
+    "text": {
+      "zh": "人才是企业最重要的资产。招对人，企业就成功了一半。",
+      "en": "Talent is the most important asset of any company. Hire the right people and you're halfway to success."
+    },
+    "author": "Jack Welch"
+  },
+  "newsItems": [
+    {
+      "id": "r0901-n1",
+      "title": {
+        "zh": "有效人才战略需要三大支柱协同",
+        "en": "Effective talent strategy requires alignment across three key pillars"
+      },
+      "summary": {
+        "zh": "福布斯人力资源委员会文章指出，成功的人才战略必须在招聘、发展和留任三大支柱之间保持对齐，任何一环脱节都会削弱整体效果。",
+        "en": "Forbes HR Council article argues successful talent strategy must align across acquisition, development and retention pillars; any disconnect weakens the overall impact."
+      },
+      "url": "https://www.forbes.com/councils/forbeshumanresourcescouncil/2026/09/01/effective-talent-strategy-requires-alignment-across-3-key-pillars/",
+      "source": "Forbes",
+      "publishedAt": "2026-09-01T08:30:00+08:00"
+    },
+    {
+      "id": "r0901-n2",
+      "title": {
+        "zh": "TalentNeuron研究：AI推动劳动力重新设计，而非单纯裁员",
+        "en": "TalentNeuron research: AI drives workforce redesign, not solely reduction"
+      },
+      "summary": {
+        "zh": "最新研究发现，AI技术正在促使企业重新设计工作流程与岗位结构，而非简单替代人力。重点在于人机协作模式的构建与员工技能升级。",
+        "en": "New research finds AI is prompting companies to redesign workflows and job structures rather than simply replacing workers. The focus is on building human-machine collaboration models and upskilling employees."
+      },
+      "url": "https://www.prnewswire.com/news-releases/talentneuron-research-finds-ai-is-driving-workforce-redesign-not-solely-workforce-reduction-302866212.html",
+      "source": "PR Newswire",
+      "publishedAt": "2026-09-01T07:15:00+08:00"
+    },
+    {
+      "id": "r0901-n3",
+      "title": {
+        "zh": "招聘经理称员工个性比技能更重要",
+        "en": "Worker personality may matter more than skills, hiring managers say"
+      },
+      "summary": {
+        "zh": "HR Dive报道，越来越多招聘经理在决策时将候选人的个性特质、文化契合度与协作能力置于硬技能之上，认为技能可培养但个性难改变。",
+        "en": "HR Dive reports growing numbers of hiring managers prioritize candidates' personality traits, cultural fit and collaboration ability over hard skills, believing skills can be trained but personality is harder to change."
+      },
+      "url": "https://www.hrdive.com/news/worker-personality-matters-more-than-skills-hiring-managers-say/829270/",
+      "source": "HR Dive",
+      "publishedAt": "2026-09-01T06:45:00+08:00"
+    },
+    {
+      "id": "r0901-n4",
+      "title": {
+        "zh": "45%企业猎聘AI原生人才，管理者技能缺口威胁生产力",
+        "en": "45% of companies hunt for AI-native talent as manager deficit threatens productivity"
+      },
+      "summary": {
+        "zh": "TechRseries调研显示，近半数企业正寻找具备AI流畅度的员工，但管理层AI技能缺口尤为突出，成为组织数字化转型的瓶颈。",
+        "en": "TechRseries survey shows nearly half of firms seek AI-fluent staff, but manager-level AI skill gaps are especially acute, becoming a bottleneck for digital transformation."
+      },
+      "url": "https://techrseries.com/employee-engagement/the-ai-native-talent-crisis-45-of-companies-hunt-for-ai-fluent-workers-as-manager-deficit-threatens-productivity/",
+      "source": "TechRseries",
+      "publishedAt": "2026-09-01T05:30:00+08:00"
+    }
+  ],
+  "knowledgePoints": [
+    {
+      "id": "r0901-kp1",
+      "content": {
+        "zh": "人才战略三支柱（招聘、发展、留任）对齐的核心逻辑是：招聘时承诺的成长路径必须与培训体系匹配，而留任激励需与员工职业发展阶段同步。脱节会导致招来的人留不住，或留下的人能力停滞。HR应建立跨职能协作机制，确保三环节政策一致、数据互通。",
+        "en": "The core logic of three-pillar alignment (acquisition, development, retention) is: growth paths promised during hiring must match training systems, while retention incentives must sync with employee career stages. Disconnect leads to hired talent leaving or retained staff stagnating. HR should establish cross-functional mechanisms ensuring policy consistency and data flow across all three."
+      },
+      "tags": [
+        {
+          "zh": "人才战略",
+          "en": "Talent Strategy"
+        },
+        {
+          "zh": "组织对齐",
+          "en": "Organizational Alignment"
+        }
+      ]
+    },
+    {
+      "id": "r0901-kp2",
+      "content": {
+        "zh": "「AI原生人才」指能自然使用AI工具提升产出、并理解AI能力边界的员工。核心不在于编程或算法知识，而在于「提示工程」、「人机协作流程设计」与「AI输出质量把控」。招聘时应考查候选人的AI工具实战经验与持续学习意愿，而非仅看证书。",
+        "en": "AI-native talent refers to staff who naturally use AI tools to boost output and understand AI capability boundaries. The core isn't coding or algorithms but prompt engineering, human-machine workflow design, and AI output quality control. Hiring should assess candidates' hands-on AI tool experience and learning willingness, not just certifications."
+      },
+      "tags": [
+        {
+          "zh": "AI人才",
+          "en": "AI Talent"
+        },
+        {
+          "zh": "技能定义",
+          "en": "Skill Definition"
+        }
+      ]
+    }
+  ],
+  "actionItems": [
+    {
+      "id": "r0901-ai1",
+      "priority": "high",
+      "content": {
+        "zh": "召集招聘、培训、薪酬负责人开一次对齐会：1) 列出近6个月新员工离职原因TOP3；2) 对比招聘JD承诺与实际培训资源的差距；3) 制定统一的人才价值主张并同步到三个环节。",
+        "en": "Convene heads of recruiting, training and compensation for an alignment session: 1) list top-3 reasons for new-hire attrition over the past six months; 2) compare JD promises versus actual training resources; 3) craft a unified talent value proposition and sync across all three functions."
+      }
+    },
+    {
+      "id": "r0901-ai2",
+      "priority": "medium",
+      "content": {
+        "zh": "设计一个「个性-技能」双维度面试评分卡：横轴列出岗位核心技能，纵轴列出团队文化契合、协作风格等个性维度，面试官对每项打分，最后加权决策，避免只看技能或只凭感觉。",
+        "en": "Design a personality-skill dual-dimension interview scorecard: horizontal axis lists core role skills, vertical axis lists team culture fit and collaboration style; interviewers score each dimension, then apply weights to decide, avoiding skill-only or gut-only judgments."
+      }
+    }
+  ]
+}
